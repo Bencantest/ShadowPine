@@ -662,19 +662,19 @@ class RAGInterface:
             success = self.rag_system.process_document(file_path)
 
             if success:
-                self.update_chat("✅ Document processed successfully!\n", "system")
-                self.update_chat(f"📚 Identified {len(self.rag_system.chapters)} chapters/sections\n", "system")
-                self.update_chat("💡 You can now ask questions about the document.\n\n", "system")
+                self.update_chat(" Document processed successfully!\n", "system")
+                self.update_chat(f" Identified {len(self.rag_system.chapters)} chapters/sections\n", "system")
+                self.update_chat(" You can now ask questions about the document.\n\n", "system")
 
                 # Update status label
                 self.doc_status_label.config(
-                    text="✅ Document loaded",
+                    text=" Document loaded",
                     fg="#27AE60"
                 )
 
                 messagebox.showinfo("Success", "PDF processed and ready for queries!")
             else:
-                self.update_chat("❌ Failed to process document.\n", "error")
+                self.update_chat(" Failed to process document.\n", "error")
                 messagebox.showerror("Error", "Failed to process the document.")
 
         except Exception as e:
@@ -697,7 +697,7 @@ class RAGInterface:
 
         try:
             self.update_chat(f"\n{'=' * 60}\n", "system")
-            self.update_chat(f"❓ Your Query:\n{query}\n\n", "user")
+            self.update_chat(f" Your Query:\n{query}\n\n", "user")
             self.update_chat("🔍 Searching document...\n", "system")
             self.root.update_idletasks()
 
@@ -713,7 +713,7 @@ class RAGInterface:
             self.update_chat(f"\n{'=' * 60}\n\n", "system")
 
         except Exception as e:
-            self.update_chat(f"❌ Error: {str(e)}\n", "error")
+            self.update_chat(f" Error: {str(e)}\n", "error")
             messagebox.showerror("Error", f"An error occurred: {str(e)}")
 
     def use_extracted_text(self):
