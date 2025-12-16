@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 0,
+    "summary": "The provided document chunk appears to be the introductory pages of a book titled 'Mastering Linux Administration' published by Packt Publishing. The book is authored by Alexandru Calcatinge, a senior university lecturer with a background in computer science and mathematics. The author expresses gratitude to his loved ones and acknowledges the support of his family and friends. The book is a comprehensive guide to Linux administration, with the author and other contributors bringing their expert",
+    "keywords": [
+      "Linux Administration",
+      "Packt Publishing",
+      "Alexandru Calcatinge",
+      "DevOps",
+      "Cloud Technologies",
+      "Computer Science",
+      "Mathematics",
+      "Urban Planning",
+      "Open Source Technologies",
+      "Linux Trainer",
+      "Programming Analyst",
+      "Computer Network Administrator"
+    ],
+    "entities": [
+      "Alexandru Calcatinge",
+      "Packt Publishing",
+      "Ion Mincu University of Architecture and Urban Planning",
+      "Caltech",
+      "Julian Balog",
+      "Pavan Ramchandani",
+      "Prachi Sawant",
+      "Ashwini Gowda",
+      "Shruti Menon",
+      "Adrija Mitra",
+      "Irfa Ansari",
+      "Safis Editing",
+      "Rekha Nair",
+      "Jyoti Kadam",
+      "Marylou De Mello"
+    ],
+    "topics": [
+      "Linux Administration",
+      "Computer Science",
+      "DevOps",
+      "Cloud Computing",
+      "Open Source Technologies",
+      "Book Publishing",
+      "Author Acknowledgments"
+    ],
+    "question_seeds": [
+      "What is the main topic of the book 'Mastering Linux Administration'?",
+      "Who is the author of the book 'Mastering Linux Administration'?",
+      "What is the background of the author Alexandru Calcatinge?",
+      "What are the key areas of expertise of the author and contributors?",
+      "When was the book 'Mastering Linux Administration' first published?"
+    ],
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "preview": "[PAGE 1] T.me/nettrain [PAGE 2] Mastering Linux Administration Copyright © 2024 Packt Publishing All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, without the prior written permission of the publisher, except in the",
+    "word_count": 2000
+  },
+  {
+    "id": 1,
+    "summary": "This document chunk discusses various topics related to Linux, virtualization, and cloud computing, including hypervisors, containers, and cloud administration. It covers the use of KVM, Docker, and other tools for managing virtual machines and containers. The chunk also introduces cloud computing concepts, including IaaS, PaaS, and CaaS solutions, and provides information on deploying applications to the cloud using AWS, Azure, and Kubernetes. Additionally, it touches on infrastructure and auto",
+    "keywords": [
+      "Linux",
+      "KVM",
+      "Docker",
+      "Cloud Computing",
+      "IaaS",
+      "PaaS",
+      "CaaS",
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Ansible",
+      "Virtualization",
+      "Containers",
+      "Hypervisors",
+      "Cloud Administration"
+    ],
+    "entities": [
+      "Linux",
+      "KVM",
+      "Docker",
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Ansible",
+      "Ubuntu",
+      "OpenSSH",
+      "Samba",
+      "NFS",
+      "SSH",
+      "EC2",
+      "Microsoft Azure",
+      "Google App Engine"
+    ],
+    "topics": [
+      "Virtualization",
+      "Cloud Computing",
+      "Containerization",
+      "Linux Administration",
+      "Cloud Administration",
+      "DevOps",
+      "Infrastructure Automation"
+    ],
+    "question_seeds": [
+      "What is the difference between KVM and Docker?",
+      "How does cloud-init work?",
+      "What are the benefits of using Kubernetes for deploying applications?",
+      "What is the role of Ansible in infrastructure automation?",
+      "How do I deploy a virtual machine to the cloud using AWS or Azure?"
+    ],
+    "pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "preview": "hypervisors Understanding Linux KVMs Choosing the hypervisor Using the KVM hypervisor Working with basic KVM commands Creating a VM using the command line Basic VM management Advanced KVM management Connecting to a VM Cloning VMs Creating VM templates Obtaining VM and host resource information Manag",
+    "word_count": 2000
+  },
+  {
+    "id": 2,
+    "summary": "This document provides guidance on Linux administration, including command line usage, file management, and system configuration. It covers various topics such as user management, software installation, and process management. The document also includes information on how to report errors, provide feedback, and access additional resources. Additionally, it offers a free PDF copy of the book and exclusive access to discounts and newsletters.",
+    "keywords": [
+      "Linux administration",
+      "command line",
+      "file management",
+      "system configuration",
+      "user management",
+      "software installation",
+      "process management",
+      "PacktPub",
+      "Linux Shell",
+      "Filesystem",
+      "Linux Software Management"
+    ],
+    "entities": [
+      "PacktPub",
+      "Linux",
+      "Amazon",
+      "T.me/nettrain"
+    ],
+    "topics": [
+      "Linux administration",
+      "System configuration",
+      "File management",
+      "User management",
+      "Software installation"
+    ],
+    "question_seeds": [
+      "What are the basic administrative tasks in Linux?",
+      "How do I manage users and groups in Linux?",
+      "What are the benefits of using the Linux command line?"
+    ],
+    "pages": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "preview": "database table names, folder names, filenames, file extensions, pathnames, dummy URLs, user input, and Twitter handles. Here is an example: “To check the contents of a binary deb package, you can use the ar command.” A block of code is set as follows: spec: replicas: 1 Any command-line input or outp",
+    "word_count": 2000
+  },
+  {
+    "id": 3,
+    "summary": "The text discusses various Linux distributions, including openSUSE, Ubuntu, and Fedora, and their suitability for different environments, such as desktop and server platforms. It also touches on the importance of considering factors like platform, infrastructure, and resources when choosing a Linux distribution. The text mentions that most Linux distributions have cloud images available and Docker container images for download. The goal is to provide hints on how to choose a suitable Linux distr",
+    "keywords": [
+      "Linux distributions",
+      "openSUSE",
+      "Ubuntu",
+      "Fedora",
+      "Tumbleweed",
+      "Leap",
+      "SUSE Linux Enterprise",
+      "server platforms",
+      "desktop environments",
+      "embedded systems",
+      "cloud infrastructure",
+      "containerization",
+      "Docker",
+      "Kubernetes"
+    ],
+    "entities": [
+      "openSUSE",
+      "Ubuntu",
+      "Fedora",
+      "SUSE Linux Enterprise",
+      "Tumbleweed",
+      "Leap",
+      "Amazon AWS",
+      "Microsoft Azure",
+      "Google Compute Engine",
+      "Docker Hub",
+      "Kubernetes",
+      "Docker"
+    ],
+    "topics": [
+      "Linux distributions",
+      "operating systems",
+      "server platforms",
+      "desktop environments",
+      "embedded systems",
+      "cloud computing",
+      "containerization"
+    ],
+    "question_seeds": [
+      "What are the key factors to consider when choosing a Linux distribution?",
+      "How do different Linux distributions differ in terms of their suitability for desktop and server environments?",
+      "What are the benefits of using a rolling release Linux distribution like Tumbleweed?",
+      "How do cloud infrastructure and containerization impact the choice of Linux distribution?",
+      "What are the main differences between openSUSE and SUSE Linux Enterprise?"
+    ],
+    "pages": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "preview": "managers. openSUSE has two versions available: one is called Tumbleweed and is a rolling release, a leading-edge Linux distribution; the other is Leap, a regular release version, which uses the same code base as SUSE Linux Enterprise. Both versions are suited to desktop and server environments. SUSE",
+    "word_count": 2000
+  },
+  {
+    "id": 4,
+    "summary": "The document discusses the process of installing Linux on a PC desktop or workstation using a bootable media, such as a CD/DVD or USB drive. It also introduces the concept of Preboot eXecution Environment (PXE) as an alternative to physical boot devices. The use of tools like UNetbootin and Balena Etcher is explained for creating a bootable USB drive. Additionally, the document touches on trying out Linux in live mode without installing it.",
+    "keywords": [
+      "Linux",
+      "ISO image",
+      "bootable media",
+      "PXE",
+      "UNetbootin",
+      "Balena Etcher",
+      "USB drive",
+      "CD/DVD",
+      "live mode",
+      "Ubuntu",
+      "Fedora",
+      "BIOS",
+      "PC",
+      "workstation",
+      "installation"
+    ],
+    "entities": [
+      "Linux",
+      "PXE",
+      "UNetbootin",
+      "Balena Etcher",
+      "Ubuntu",
+      "Fedora",
+      "Windows",
+      "macOS",
+      "PC",
+      "BIOS"
+    ],
+    "topics": [
+      "Linux installation",
+      "bootable media",
+      "PXE",
+      "live mode",
+      "operating systems"
+    ],
+    "question_seeds": [
+      "What is the purpose of a bootable media in Linux installation?",
+      "How does PXE work for Linux installations?",
+      "What are the benefits of using live mode for trying out Linux?"
+    ],
+    "pages": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "preview": "can also use the ISO image to install Linux in a VM, as shown in the next section. Step 2 – Create the bootable media As we install Linux on a PC desktop or workstation (bare-metal) system, the bootable Linux media is generally a CD/DVD or a USB device. With a DVD-writable optical drive at hand, we ",
+    "word_count": 2000
+  },
+  {
+    "id": 5,
+    "summary": "The document provides a step-by-step guide to installing Ubuntu Server, starting from the initial welcome screen to the final installation process. The user is prompted to select their preferred language, keyboard layout, and installation options, including the base for the installation and network connections. The installation process involves configuring storage, partitioning, and setting up a profile, including a username and password. The guide also mentions the installation of specific snap",
+    "keywords": [
+      "Ubuntu Server",
+      "installation",
+      "language selection",
+      "keyboard layout",
+      "network connections",
+      "storage configuration",
+      "partitioning",
+      "profile setup",
+      "snap packages",
+      "openSSH server",
+      "VMware Workstation",
+      "Windows 11",
+      "Rocky Linux"
+    ],
+    "entities": [
+      "Ubuntu",
+      "Windows 11",
+      "VMware Workstation",
+      "Rocky Linux",
+      "T.me/nettrain"
+    ],
+    "topics": [
+      "Operating System Installation",
+      "Server Configuration",
+      "Network Setup",
+      "Storage Management",
+      "Linux Distribution"
+    ],
+    "question_seeds": [
+      "What are the steps to install Ubuntu Server?",
+      "How do I configure network connections during the Ubuntu Server installation?",
+      "What are the available snap packages for Ubuntu Server installation?"
+    ],
+    "pages": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "preview": "into setup mode: 1. The initial welcome screen prompts for the language of your choice. Select the one you prefer and press Enter on your keyboard. T.me/nettrain [PAGE 48] 2. You might be prompted to apply an installer update if available. You have the options to update the installer or continue wit",
+    "word_count": 2000
+  },
+  {
+    "id": 6,
+    "summary": "The Windows Subsystem for Linux (WSL) is a Windows platform feature that provides a native GNU/Linux runtime environment, allowing for the seamless deployment and integration of select Linux distributions on top of the Windows kernel. WSL eliminates the need for a dedicated hypervisor, making it easy to install and run Linux as a native Windows application. With WSL, Windows professionals can easily adopt Linux and access its filesystem directly from File Explorer. WSL is available by default on",
+    "keywords": [
+      "Windows Subsystem for Linux",
+      "WSL",
+      "Linux",
+      "Windows",
+      "GNU/Linux",
+      "Hypervisor",
+      "Hyper-V",
+      "Microsoft Store",
+      "Ubuntu",
+      "Linux distribution",
+      "Windows Terminal",
+      "File Explorer"
+    ],
+    "entities": [
+      "Windows",
+      "Linux",
+      "Microsoft",
+      "Ubuntu",
+      "Hyper-V",
+      "Oracle VM VirtualBox",
+      "VMware Workstation",
+      "Windows 10",
+      "Windows 11"
+    ],
+    "topics": [
+      "Windows Subsystem for Linux",
+      "Linux on Windows",
+      "Virtualization",
+      "Hypervisors",
+      "Windows Platform"
+    ],
+    "question_seeds": [
+      "What is the Windows Subsystem for Linux?",
+      "How does WSL integrate with Windows?",
+      "What are the benefits of using WSL?",
+      "How do I install WSL on Windows?",
+      "What Linux distributions are available on WSL?"
+    ],
+    "pages": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "preview": "work or T.me/nettrain [PAGE 53] environment. In the past, Windows professionals frequently discovered that some standard development tools, frameworks, or server components were available on the Linux or macOS platforms while lacking native support on Windows. Windows Subsystem for Linux (WSL) attem",
+    "word_count": 2000
+  },
+  {
+    "id": 7,
+    "summary": "The document discusses the setup and configuration of a PXE server for network booting in Linux operating systems. It highlights the importance of installing a Network File System (NFS) server and configuring DHCP, TFTP, and DNS servers. The text also touches on the use of PXE in corporate environments and provides resources for further learning. Additionally, it introduces a case study on choosing the right Linux distribution for a development workstation.",
+    "keywords": [
+      "PXE server",
+      "Network File System",
+      "NFS",
+      "DHCP",
+      "TFTP",
+      "DNS",
+      "Linux operating systems",
+      "network booting",
+      "corporate environments",
+      "Linux distributions",
+      "development workstation"
+    ],
+    "entities": [
+      "Ubuntu",
+      "Red Hat",
+      "Fedora",
+      "Java",
+      "Node.js",
+      "Python",
+      "Golang",
+      "IntelliJ",
+      "VS Code",
+      "Docker",
+      "VirtualBox"
+    ],
+    "topics": [
+      "Linux installation",
+      "network booting",
+      "PXE configuration",
+      "Linux distributions",
+      "development environments"
+    ],
+    "question_seeds": [
+      "What is PXE and how does it work?",
+      "How do I configure a PXE server for network booting?",
+      "What are the system requirements for setting up a PXE environment?",
+      "What are the differences between various Linux distributions?",
+      "How do I choose the right Linux distribution for my development needs?"
+    ],
+    "pages": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "preview": "System (NFS) server must also be installed, as this protocol is required for network file sharing and is used in modern Linux operating systems. But before we go into further detail, let us discuss how network boot works. PXE relies on a client/server environment where different machines are equippe",
+    "word_count": 2000
+  },
+  {
+    "id": 8,
+    "summary": "This chapter provides an overview of Linux distributions, focusing on choosing the right platform and performing installation procedures, with a practical emphasis on Ubuntu and VM environments. It also covers WSL, a modern-day abstraction of Linux as a native Windows application. The skills learned in this chapter will help readers understand how to choose different flavors of Linux distros based on their needs and deploy them quickly. The next chapter will delve into Linux subsystems, componen",
+    "keywords": [
+      "Linux distribution",
+      "Ubuntu",
+      "VM environments",
+      "WSL",
+      "Linux installation",
+      "Linux shell",
+      "Filesystem",
+      "Linux subsystems",
+      "Linux components",
+      "Linux services",
+      "Linux applications",
+      "Vagrant",
+      "Linux filesystem internals",
+      "Linux command-line interface"
+    ],
+    "entities": [
+      "Ubuntu",
+      "Windows",
+      "WSL",
+      "Vagrant",
+      "Packt",
+      "Oliver Pelz",
+      "Jay LaCroix",
+      "Alexandru Calcatinge",
+      "Julian Balog",
+      "Fedora"
+    ],
+    "topics": [
+      "Linux distributions",
+      "Linux installation",
+      "Linux shell",
+      "Filesystem management",
+      "VM environments",
+      "WSL",
+      "Linux subsystems"
+    ],
+    "question_seeds": [
+      "What are the key considerations when choosing a Linux distribution?",
+      "How does WSL enable running Linux on Windows?",
+      "What are the benefits of using Vagrant for managing VM environments?"
+    ],
+    "pages": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "preview": "well. Now that you know about different use cases, it is time to pick your Linux distribution and start playing with it. In this chapter, we provided you with a plethora of information that will prove invaluable as you start your journey with Linux. Summary In this chapter, we learned about Linux di",
+    "word_count": 2000
+  },
+  {
+    "id": 9,
+    "summary": "The text discusses virtual terminals and consoles in Linux, including pseudo-terminals and how to access them using keyboard shortcuts or the chvt command. It also explains the difference between virtual terminals and pseudo-terminals, and how to switch between them. The text uses an Ubuntu 22.04.2 LTS Server VM installation as an example, and mentions the use of sudo to run commands with administrative privileges. The discussion includes the use of the who command to show information about logg",
+    "keywords": [
+      "Linux",
+      "virtual terminals",
+      "pseudo-terminals",
+      "chvt command",
+      "sudo",
+      "Ubuntu",
+      "tty",
+      "pts",
+      "SSH",
+      "virtual consoles",
+      "keyboard shortcuts",
+      "administrative privileges"
+    ],
+    "entities": [
+      "Linux",
+      "Ubuntu",
+      "Rocky Linux",
+      "SSH",
+      "sudo"
+    ],
+    "topics": [
+      "Linux terminals",
+      "virtual consoles",
+      "pseudo-terminals",
+      "system administration",
+      "Linux commands"
+    ],
+    "question_seeds": [
+      "What is the difference between a virtual terminal and a pseudo-terminal?",
+      "How do you access virtual consoles in Linux?",
+      "What is the purpose of the chvt command in Linux?"
+    ],
+    "pages": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "preview": "the slave of the pseudo-terminal device, which is represented as pty. In the next section, we will further explore the connections to virtual terminals available in Linux. Virtual consoles/terminals The terminal was thought of as a device that manages the input strings (which are commands) between a",
+    "word_count": 2000
+  },
+  {
+    "id": 10,
+    "summary": "The Linux filesystem is a logical collection of files stored on a partition or disk, with a hierarchical structure similar to an upside-down tree. The root directory is the base of the filesystem, and all other directories branch out from it. The Filesystem Hierarchy Standard (FHS) defines the structure of Unix-like filesystems, but Linux filesystems may contain additional directories. Users can explore the filesystem using the tree command and learn about its structure and contents.",
+    "keywords": [
+      "Linux filesystem",
+      "hierarchical structure",
+      "root directory",
+      "Filesystem Hierarchy Standard",
+      "FHS",
+      "tree command",
+      "command line",
+      "directory structure",
+      "file management",
+      "Linux partitions",
+      "disk management",
+      "file editing",
+      "command line editing"
+    ],
+    "entities": [
+      "Linux",
+      "Fedora Linux",
+      "Ubuntu",
+      "Unix",
+      "FHS",
+      "Filesystem Hierarchy Standard"
+    ],
+    "topics": [
+      "Linux filesystem management",
+      "command line interface",
+      "file management",
+      "directory structure",
+      "Linux partitions and disks"
+    ],
+    "question_seeds": [
+      "What is the Linux filesystem hierarchy?",
+      "How do I navigate the Linux filesystem using the command line?",
+      "What is the purpose of the Filesystem Hierarchy Standard?",
+      "How do I use the tree command to explore the Linux filesystem?",
+      "What are the key directories in the Linux root filesystem?"
+    ],
+    "pages": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "preview": "outside internet access is limited, with no access to search engines, the built-in manual will be your best companion. Learn to use its powers to your advantage. In the following section, you will learn about the Linux filesystem. The Linux filesystem T.me/nettrain [PAGE 73] The Linux filesystem con",
+    "word_count": 2000
+  },
+  {
+    "id": 11,
+    "summary": "This document discusses basic file operations in Linux, including creating, copying, moving, listing, and deleting files. It covers the use of the touch command to create new empty files and alter file timestamps. The document also explores the ls command for listing files, including options for displaying file details and hidden files. Additionally, it touches on the use of redirection and the echo command to create files.",
+    "keywords": [
+      "Linux",
+      "file operations",
+      "touch command",
+      "ls command",
+      "file creation",
+      "file manipulation",
+      "redirection",
+      "echo command",
+      "file timestamps",
+      "hidden files",
+      "file listing",
+      "system administration"
+    ],
+    "entities": [
+      "Linux",
+      "/etc/passwd",
+      "touch",
+      "ls",
+      "echo"
+    ],
+    "topics": [
+      "Linux file system",
+      "file management",
+      "system administration",
+      "command-line interface"
+    ],
+    "question_seeds": [
+      "What are the basic file operations in Linux?",
+      "How do you create a new file in Linux using the touch command?",
+      "What is the purpose of the ls command in Linux?",
+      "How do you alter file timestamps in Linux?",
+      "What is the difference between the > and >> operators in Linux?"
+    ],
+    "pages": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "preview": "and it translates as follows: concatenate the file with the passwd name that is located in the /etc directory in the parent directory (first two dots) of the parent directory (second two dots) of our current directory (home). Therefore, the /etc/passwd absolute path is translated into a relative pat",
+    "word_count": 2000
+  },
+  {
+    "id": 12,
+    "summary": "The document discusses Linux commands for managing files and directories, including the ls -i command to show inode numbers, the readlink command to identify symbolic links, and the ln command to create hard links. It also covers the rm command for deleting files, including options for interactive, force, and recursive deletion. Additionally, the document touches on creating directories with the mkdir command. The importance of caution when using the rm command is emphasized, particularly with t",
+    "keywords": [
+      "Linux",
+      "inode",
+      "symbolic link",
+      "hard link",
+      "readlink",
+      "ln",
+      "rm",
+      "mkdir",
+      "file management",
+      "directory management",
+      "Ubuntu",
+      "CentOS"
+    ],
+    "entities": [
+      "Ubuntu",
+      "CentOS",
+      "Linux"
+    ],
+    "topics": [
+      "Linux file management",
+      "symbolic links",
+      "hard links",
+      "file deletion",
+      "directory creation"
+    ],
+    "question_seeds": [
+      "What is the difference between a symbolic link and a hard link in Linux?",
+      "How do you create a hard link in Linux?",
+      "What is the purpose of the readlink command in Linux?"
+    ],
+    "pages": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "preview": "can use the ls -i command to show the inode before every file. In the following example, you can see that new-report and new-report-link have different inodes: T.me/nettrain [PAGE 84] Figure 2.14 – Comparing the inodes for the symbolic link and original file If you want to know where the link points",
+    "word_count": 2000
+  },
+  {
+    "id": 13,
+    "summary": "it is being written. It will show you the contents of the file on the screen effectively. The -f option will cause the tail command to stop during a log rotation, and in this case, the -F option should be used instead. When using the -F option, the command will continue to show the output even during a log rotation. To exit that screen, you will need to press Ctrl + C to go back to the shell promp",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "preview": "it is being written. It will show you the contents of the file on the screen effectively. The -f option will cause the tail command to stop during a log rotation, and in this case, the -F option should be used instead. When using the -F option, the command will continue to show the output even durin",
+    "word_count": 2000
+  },
+  {
+    "id": 14,
+    "summary": "files from the archive and add them to the uncompressed-directory directory. To uncompress a gzip-compressed archive, for example, files-archive-gzipped.tar.gz, we will add the -z option to the ones already used in the previous command, as shown in the following snippet: tar -xvzf files-archive-gzipped.tar.gz -C uncompressed-directory There you go, now you know how to archive and unarchive files i",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "preview": "files from the archive and add them to the uncompressed-directory directory. To uncompress a gzip-compressed archive, for example, files-archive-gzipped.tar.gz, we will add the -z option to the ones already used in the previous command, as shown in the following snippet: tar -xvzf files-archive-gzip",
+    "word_count": 2000
+  },
+  {
+    "id": 15,
+    "summary": "you don’t want to see the filename of each file where the match was found, use the -h option. Then, grep will only show you the lines where the match was found: grep -Rh packt /etc To show only the name of the file where the match was found, use -l: grep -Rl packt /etc Most likely, grep will be used in combination with shell pipes. Here are some examples: If you want to see only the directories fr",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "preview": "you don’t want to see the filename of each file where the match was found, use the -h option. Then, grep will only show you the lines where the match was found: grep -Rh packt /etc To show only the name of the file where the match was found, use -l: grep -Rl packt /etc Most likely, grep will be used",
+    "word_count": 2000
+  },
+  {
+    "id": 16,
+    "summary": "[PAGE 107] 3 Linux Software Management Software management is an important aspect of Linux system administration because, at some level, you will have to work with software packages as a system administrator. Knowing how to work with software packages is an asset that you will master after finishing this chapter. In this chapter, you will learn how to use specific software management commands, as ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "preview": "[PAGE 107] 3 Linux Software Management Software management is an important aspect of Linux system administration because, at some level, you will have to work with software packages as a system administrator. Knowing how to work with software packages is an asset that you will master after finishing",
+    "word_count": 2000
+  },
+  {
+    "id": 17,
+    "summary": "the centralized snap repository. Either one is equally suitable for our aim to distribute the app for all major Linux distributions with minimal resource consumption and centralized effort. IMPORTANT NOTE Both package types are trying to overcome the overall fragmentation of the Linux ecosystem when it comes to packages. However, these two packages have different philosophies, even though they wan",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "preview": "the centralized snap repository. Either one is equally suitable for our aim to distribute the app for all major Linux distributions with minimal resource consumption and centralized effort. IMPORTANT NOTE Both package types are trying to overcome the overall fragmentation of the Linux ecosystem when",
+    "word_count": 2000
+  },
+  {
+    "id": 18,
+    "summary": "use the following command: sudo find / -type d -name *binutils 2>/dev/null The output will show the directories (hence the -type d option that was used with the command), where binutils-related files remain after the removal of the package. Another tool that’s used to remove packages and all the configuration files associated with them is apt purge. If you want to use the apt purge command instead",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "preview": "use the following command: sudo find / -type d -name *binutils 2>/dev/null The output will show the directories (hence the -type d option that was used with the command), where binutils-related files remain after the removal of the package. Another tool that’s used to remove packages and all the con",
+    "word_count": 2000
+  },
+  {
+    "id": 19,
+    "summary": "The document discusses package management in Linux distributions, specifically Fedora, RHEL, Ubuntu, and openSUSE. It highlights the differences in default actions between Ubuntu and Fedora/RHEL derivatives, where Ubuntu's default action is set to 'Y' (yes) and Fedora/RHEL derivatives is set to 'N' (no). The yum command is used for package management in Fedora/RHEL-based systems, while Zypper is used in openSUSE. The document also covers various commands for managing packages, including installi",
+    "keywords": [
+      "Fedora",
+      "RHEL",
+      "Ubuntu",
+      "openSUSE",
+      "yum",
+      "Zypper",
+      "package management",
+      "Linux distributions",
+      "command line",
+      "installation",
+      "removal",
+      "update",
+      "upgrade"
+    ],
+    "entities": [
+      "Fedora",
+      "RHEL",
+      "Ubuntu",
+      "openSUSE",
+      "yum",
+      "Zypper",
+      "nmap"
+    ],
+    "topics": [
+      "Linux package management",
+      "command line interfaces",
+      "Linux distributions",
+      "system administration"
+    ],
+    "question_seeds": [
+      "What is the difference between yum and Zypper?",
+      "How do I install a package in Fedora using yum?",
+      "What is the purpose of the yum history command?"
+    ],
+    "pages": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "preview": "inside a command dialogue in Fedora or RHEL derivatives is N (for no, or negative), while in Ubuntu, the default action is set to Y (for yes). This is a precautionary safety measure, which requires your extra attention and intervention. The output, very similar to the output of the installation comm",
+    "word_count": 2000
+  },
+  {
+    "id": 20,
+    "summary": "on a Linux machine. Using the snap and flatpak packages Snaps and flatpaks are relatively new package types that are used in various Linux distributions. In this section, we will show you how to manage those types of packages. For snaps, we will use Ubuntu as our test distribution, while for flatpaks, we will use Fedora, even though, with a little bit of work, both package types can work on either",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "preview": "on a Linux machine. Using the snap and flatpak packages Snaps and flatpaks are relatively new package types that are used in various Linux distributions. In this section, we will show you how to manage those types of packages. For snaps, we will use Ubuntu as our test distribution, while for flatpak",
+    "word_count": 2000
+  },
+  {
+    "id": 21,
+    "summary": "install command shown previously. Managing flatpak applications After installing an application, you can run it using the command line with the following command: $ flatpak run com.obsproject.Studio If you want to update all the applications and runtimes, you can use this command: $ sudo flatpak update To remove a flatpak package, simply run the flatpak uninstall command: $ sudo flatpak uninstall ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143
+    ],
+    "preview": "install command shown previously. Managing flatpak applications After installing an application, you can run it using the command line with the following command: $ flatpak run com.obsproject.Studio If you want to update all the applications and runtimes, you can use this command: $ sudo flatpak upd",
+    "word_count": 2000
+  },
+  {
+    "id": 22,
+    "summary": "root privileges. Consequently, possible vulnerabilities exposed through the web server would remain strictly isolated to the limited action realm of the associated system account. Superusers: These are privileged user accounts, with full access to system resources, including the permission to create, modify, and delete user accounts. The root user is an example of a superuser. In Linux, only the r",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149
+    ],
+    "preview": "root privileges. Consequently, possible vulnerabilities exposed through the web server would remain strictly isolated to the limited action realm of the associated system account. Superusers: These are privileged user accounts, with full access to system resources, including the permission to create",
+    "word_count": 2000
+  },
+  {
+    "id": 23,
+    "summary": "following section. Creating a superuser When a regular user is given the power to run sudo, they become a superuser. Let’s assume we have a regular user created via any of the examples shown in the Creating users section. Promoting the user to a superuser (or sudoer) requires a sudo group membership. In Linux, the sudo group is a reserved system group for users with elevated or root privileges. To",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154
+    ],
+    "preview": "following section. Creating a superuser When a regular user is given the power to run sudo, they become a superuser. Let’s assume we have a regular user created via any of the examples shown in the Creating users section. Promoting the user to a superuser (or sudoer) requires a sudo group membership",
+    "word_count": 2000
+  },
+  {
+    "id": 24,
+    "summary": "The document discusses user and group management in Linux, including deleting users via the /etc/passwd and /etc/shadow files, and managing groups using command-line utilities such as groupadd, groupmod, and groupdel. It also explains the concepts of primary and supplementary groups, and how to associate users with groups. The userdel utility is used to delete users, while the useradd and usermod commands have group-specific options. Additionally, the document provides information on creating, m",
+    "keywords": [
+      "Linux",
+      "user management",
+      "group management",
+      "userdel",
+      "groupadd",
+      "groupmod",
+      "groupdel",
+      "etc/passwd",
+      "etc/shadow",
+      "primary group",
+      "supplementary group",
+      "GID",
+      "sudo",
+      "vipw"
+    ],
+    "entities": [
+      "Linux",
+      "julian",
+      "sudo",
+      "vipw",
+      "userdel",
+      "groupadd",
+      "groupmod",
+      "groupdel"
+    ],
+    "topics": [
+      "Linux administration",
+      "user management",
+      "group management",
+      "command-line utilities"
+    ],
+    "question_seeds": [
+      "What is the purpose of the userdel utility?",
+      "How do you delete a user in Linux using the /etc/passwd and /etc/shadow files?",
+      "What is the difference between a primary group and a supplementary group in Linux?",
+      "How do you create a new group in Linux using the groupadd command?",
+      "What is the role of the GID in Linux group management?"
+    ],
+    "pages": [
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "preview": "home directory (when invoked with the -f or --force option) and the related entries in the /etc/passwd and /etc/shadow files. There is also an alternative way, which could be handy in some odd cleanup scenarios. The next section shows how. Deleting users via /etc/passwd and /etc/shadow A superuser c",
+    "word_count": 2000
+  },
+  {
+    "id": 25,
+    "summary": "the user Now, let us add the user julian to the devops group. The -g, --gid option parameter of the usermod command accepts both a GID and a group name. The specified group name must already be present in the system; otherwise, the command will fail. If we want to change the primary group (for example, to devops), we simply specify the group name in the -g, --gid option parameter, as follows: sudo",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "preview": "the user Now, let us add the user julian to the devops group. The -g, --gid option parameter of the usermod command accepts both a GID and a group name. The specified group name must already be present in the system; otherwise, the command will fail. If we want to change the primary group (for examp",
+    "word_count": 2000
+  },
+  {
+    "id": 26,
+    "summary": "increasingly daunting tasks for a Linux administrator. Knowing at any time which users belong to which groups is valuable information, both for reporting purposes and user automation workflows. The following section provides a few commands for viewing user and group data. Viewing users and groups In this section, we will provide some potentially useful commands for retrieving group and group membe",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173
+    ],
+    "preview": "increasingly daunting tasks for a Linux administrator. Knowing at any time which users belong to which groups is valuable information, both for reporting purposes and user automation workflows. The following section provides a few commands for viewing user and group data. Viewing users and groups In",
+    "word_count": 2000
+  },
+  {
+    "id": 27,
+    "summary": "analyze the output, as follows: -rw-r--r-- 1 root root 2010 Mar 9 08:57 /etc/passwd We have nine segments, separated by single whitespace characters (delimiters). These are outlined here: -rw-r--r--: The file access permissions 1: The number of hard links root: The user who is the owner of the file root: The group that is the owner of the file 2010: The size of the file Mar: The month the file was",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "preview": "analyze the output, as follows: -rw-r--r-- 1 root root 2010 Mar 9 08:57 /etc/passwd We have nine segments, separated by single whitespace characters (delimiters). These are outlined here: -rw-r--r--: The file access permissions 1: The number of hard links root: The user who is the owner of the file ",
+    "word_count": 2000
+  },
+  {
+    "id": 28,
+    "summary": "refer to the related documentation (man chown). Next, let’s briefly look at a similar command-line utility that specializes exclusively in group ownership changes. T.me/nettrain [PAGE 179] Using chgrp The chgrp command (short for change group) is used to change the group ownership for files and directories. In Linux, files and directories typically belong to a user (owner) or a group. We can set u",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186
+    ],
+    "preview": "refer to the related documentation (man chown). Next, let’s briefly look at a similar command-line utility that specializes exclusively in group ownership changes. T.me/nettrain [PAGE 179] Using chgrp The chgrp command (short for change group) is used to change the group ownership for files and dire",
+    "word_count": 2000
+  },
+  {
+    "id": 29,
+    "summary": "a multitasking operating system. Multiple programs or tasks can run in parallel, each with its own identity, scheduling, memory space, permissions, and system resources. Processes encapsulate the execution context of any such program. Understanding how processes work and communicate with each other is an important skill for any seasoned Linux system administrator and developer to have. This chapte",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      186,
+      187,
+      188,
+      189,
+      190,
+      191
+    ],
+    "preview": "a multitasking operating system. Multiple programs or tasks can run in parallel, each with its own identity, scheduling, memory space, permissions, and system resources. Processes encapsulate the execution context of any such program. Understanding how processes work and communicate with each other ",
+    "word_count": 2000
+  },
+  {
+    "id": 30,
+    "summary": "denoting a daemon process. Daemons are controlled by shell scripts usually stored in the /etc/init.d/ or /lib/systemd/ system directory, depending on the Linux platform. Ubuntu, for example, stores daemon script files in T.me/nettrain [PAGE 190] /etc/init.d/, while Fedora stores them in /lib/systemd/. The location of these daemon files depends on the platform implementation of init, a system-wide ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "preview": "denoting a daemon process. Daemons are controlled by shell scripts usually stored in the /etc/init.d/ or /lib/systemd/ system directory, depending on the Linux platform. Ubuntu, for example, stores daemon script files in T.me/nettrain [PAGE 190] /etc/init.d/, while Fedora stores them in /lib/systemd",
+    "word_count": 2000
+  },
+  {
+    "id": 31,
+    "summary": "Many of the process output fields displayed by the ps command are also reflected in the top command, albeit some of them with slightly different notations. Let’s look at the top command and the meaning of the output fields that are displayed. The following command displays a real-time view of running processes: top The output of the preceding command can be seen in the following screenshot: T.me/n",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202
+    ],
+    "preview": "Many of the process output fields displayed by the ps command are also reflected in the top command, albeit some of them with slightly different notations. Let’s look at the top command and the meaning of the output fields that are displayed. The following command displays a real-time view of runnin",
+    "word_count": 2000
+  },
+  {
+    "id": 32,
+    "summary": "The document discusses the use of the pstree and top commands in Linux to monitor and manage processes. The pstree command is used to display the process tree of the current Terminal session, while the top command is used to monitor processes in real-time. The top command can be used to sort processes by different fields, such as CPU usage or memory usage, and can also be used to kill specific processes. The document provides examples of how to use these commands to manage and monitor processes ",
+    "keywords": [
+      "pstree",
+      "top command",
+      "Linux",
+      "process tree",
+      "PID",
+      "CPU usage",
+      "memory usage",
+      "process management",
+      "Terminal session",
+      "Bash",
+      "shell",
+      "system reference manual"
+    ],
+    "entities": [
+      "Linux",
+      "Bash",
+      "Terminal",
+      "pstree",
+      "top"
+    ],
+    "topics": [
+      "process management",
+      "Linux commands",
+      "system monitoring",
+      "Terminal management"
+    ],
+    "question_seeds": [
+      "What is the purpose of the pstree command?",
+      "How do I use the top command to monitor processes in real-time?",
+      "What are the different options available for the top command?",
+      "How do I kill a specific process using the top command?",
+      "What is the difference between the pstree and top commands?"
+    ],
+    "pages": [
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208
+    ],
+    "preview": "process tree of our current Terminal session: pstree $(echo $$) The output of the preceding command can be seen in the following screenshot: Figure 5.15 – The process tree of the current Terminal session In the preceding command, echo $$ provides the PID value of the current Terminal session. $$ is ",
+    "word_count": 2000
+  },
+  {
+    "id": 33,
+    "summary": "process section, we briefly mentioned a variety of init systems across Linux distributions. To illustrate the use of daemon control commands, we will explore the init system called systemd, which is extensively used across various Linux platforms. Working with systemd daemons The init system’s essential requirement is to initialize and orchestrate the launch and startup dependencies of various pro",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "preview": "process section, we briefly mentioned a variety of init systems across Linux distributions. To illustrate the use of daemon control commands, we will explore the init system called systemd, which is extensively used across various Linux platforms. Working with systemd daemons The init system’s essen",
+    "word_count": 2000
+  },
+  {
+    "id": 34,
+    "summary": "are handled, except for SIGKILL (9) and SIGSTOP (19), which always end or stop a process, respectively. Processes handle signals in either of the following fashions: Perform the default action implied by the signal; for example, stop, terminate, core-dump a process, or do nothing. Perform a custom action (except for SIGKILL and SIGSTOP). In this case, the process catches the signal and handles it ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      212,
+      213,
+      214,
+      215,
+      216,
+      217
+    ],
+    "preview": "are handled, except for SIGKILL (9) and SIGSTOP (19), which always end or stop a process, respectively. Processes handle signals in either of the following fashions: Perform the default action implied by the signal; for example, stop, terminate, core-dump a process, or do nothing. Perform a custom a",
+    "word_count": 2000
+  },
+  {
+    "id": 35,
+    "summary": "function as an intermediary between the CPU and the storage. The speeds of accessing memory are very high to secure a seamless process of execution. The management of user processes inside the user space is the kernel’s job. The kernel makes sure that none of the processes will interfere with each other. The kernel space is usually accessed only by the kernel, but there are times when user process",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      217,
+      218,
+      219,
+      220,
+      221
+    ],
+    "preview": "function as an intermediary between the CPU and the storage. The speeds of accessing memory are very high to secure a seamless process of execution. The management of user processes inside the user space is the kernel’s job. The kernel makes sure that none of the processes will interfere with each o",
+    "word_count": 2000
+  },
+  {
+    "id": 36,
+    "summary": "filesystem was designed for Linux right from the outset. Even though it is slowly being replaced with other filesystems, this one still has powerful features. It offers block size selection, with values between 512 and 4,096 bytes. There is also a feature called inode reservation, which saves a couple of inodes when you create a directory, for improved performance when creating new files. The layo",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      222,
+      223,
+      224,
+      225,
+      226
+    ],
+    "preview": "filesystem was designed for Linux right from the outset. Even though it is slowly being replaced with other filesystems, this one still has powerful features. It offers block size selection, with values between 512 and 4,096 bytes. There is also a feature called inode reservation, which saves a coup",
+    "word_count": 2000
+  },
+  {
+    "id": 37,
+    "summary": "MBR. MBR is the first 512 bytes of a drive. Out of these, the partition table is 64 bytes and is stored after the first 446 bytes of records. At the end of MBR, there are 2 bytes known as the end of sector marker. The first 446 bytes are reserved for code that usually belongs to a bootloader program. In the case of Linux, the bootloader is called GRand Unified Bootloader (GRUB). When you boot up a",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234
+    ],
+    "preview": "MBR. MBR is the first 512 bytes of a drive. Out of these, the partition table is 64 bytes and is stored after the first 446 bytes of records. At the end of MBR, there are 2 bytes known as the end of sector marker. The first 446 bytes are reserved for code that usually belongs to a bootloader program",
+    "word_count": 2000
+  },
+  {
+    "id": 38,
+    "summary": "creating the filesystem. You can also use the -L option if you want to add a label for the partition right from the command. The following is an example of creating an Ext4 filesystem partition with the name newpartition: sudo mkfs -t ext4 -v -c -L newpartition /dev/sda Once a partition is formatted, it’s advised that you check it for errors. Similar to mkfs, there is a tool called fsck. This is a",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      234,
+      235,
+      236,
+      237,
+      238,
+      239
+    ],
+    "preview": "creating the filesystem. You can also use the -L option if you want to add a label for the partition right from the command. The following is an example of creating an Ext4 filesystem partition with the name newpartition: sudo mkfs -t ext4 -v -c -L newpartition /dev/sda Once a partition is formatted",
+    "word_count": 2000
+  },
+  {
+    "id": 39,
+    "summary": "the drive using the wipefs utility. The output is shown in the following screenshot: Figure 6.19 – Using pvcreate to create an LVM physical volume 3. Create a new volume group to add the new physical volume to using the vgcreate command: sudo vgcreate newvolume /dev/sda 4. You can see the new volume group by running the vgdisplay command: T.me/nettrain [PAGE 238] Figure 6.20 – Creating and viewing",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245
+    ],
+    "preview": "the drive using the wipefs utility. The output is shown in the following screenshot: Figure 6.19 – Using pvcreate to create an LVM physical volume 3. Create a new volume group to add the new physical volume to using the vgcreate command: sudo vgcreate newvolume /dev/sda 4. You can see the new volume",
+    "word_count": 2000
+  },
+  {
+    "id": 40,
+    "summary": "A computer network is a group of two or more computers connected via a physical medium, communicating with each other using standard protocols. Networks can be classified into local area networks (LANs) and wide area networks (WANs), with LANs connecting devices in a single location and WANs spanning multiple regions. The Open Systems Interconnection (OSI) model is a theoretical representation of network communications, introduced in 1983. Network devices are identified by network addresses, hos",
+    "keywords": [
+      "computer network",
+      "LAN",
+      "WAN",
+      "OSI model",
+      "network protocols",
+      "network addresses",
+      "hostnames",
+      "demilitarized zone",
+      "firewall",
+      "Internet Protocol",
+      "TCP/IP",
+      "network topologies",
+      "network equipment",
+      "network devices"
+    ],
+    "entities": [
+      "International Organization",
+      "Cisco",
+      "TCP/IP",
+      "OSI",
+      "DMZ",
+      "LAN",
+      "WAN",
+      "PAN",
+      "MAN",
+      "IAN"
+    ],
+    "topics": [
+      "computer networks",
+      "network classification",
+      "network protocols",
+      "network devices",
+      "network security",
+      "OSI model"
+    ],
+    "question_seeds": [
+      "What is a computer network?",
+      "How do LANs and WANs differ?",
+      "What is the OSI model and its significance in network communications?",
+      "What are the different types of network devices and their functions?",
+      "How do network addresses and hostnames work in identifying devices on a network?"
+    ],
+    "pages": [
+      245,
+      246,
+      247,
+      248,
+      249
+    ],
+    "preview": "networks. Computer networks A computer network is a group of two or more computers (or nodes) connected via a physical medium (cable, wireless, optical) and communicating with each other using a standard set of agreed- upon communication protocols. At a very high level, a network communication infra",
+    "word_count": 2000
+  },
+  {
+    "id": 41,
+    "summary": "segments. On the receiving end, the transport layer reassembles the data packets received from the layer below (network layer) into segments. The transport layer maintains the reliability of the data transfer through flow-control and error- control functions. The flow-control function adjusts the data transfer rate between endpoints with different connection speeds, to avoid a sender overwhelming ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      249,
+      250,
+      251,
+      252,
+      253
+    ],
+    "preview": "segments. On the receiving end, the transport layer reassembles the data packets received from the layer below (network layer) into segments. The transport layer maintains the reliability of the data transfer through flow-control and error- control functions. The flow-control function adjusts the da",
+    "word_count": 2000
+  },
+  {
+    "id": 42,
+    "summary": "is a stateless application-level protocol based on the request and response between a client application (for example, a browser) and a server endpoint (for example, a web server). HTTP supports a wide variety of data formats, ranging from text to images and video streams. HTTP operates at the application layer (Layer 7) in the OSI model. FTP: FTP (RFC 959) is a standard protocol for transferring ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      253,
+      254,
+      255,
+      256,
+      257,
+      258
+    ],
+    "preview": "is a stateless application-level protocol based on the request and response between a client application (for example, a browser) and a server endpoint (for example, a web server). HTTP supports a wide variety of data formats, ranging from text to images and video streams. HTTP operates at the appli",
+    "word_count": 2000
+  },
+  {
+    "id": 43,
+    "summary": "this: 2001:b8d:8a52:: The subnet represents the leading four groups (2001, 0b8d, 8a52, and 0000), which results in a total of 4 x 16 = 64 bits. In the shortened representation of the IPv6 subnet, the leading zeros are omitted and the all-zero group is collapsed to ::. Subnetting with IPv6 is very similar to IPv4. We won’t go into the details here since the related concepts were presented in the IP",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266
+    ],
+    "preview": "this: 2001:b8d:8a52:: The subnet represents the leading four groups (2001, 0b8d, 8a52, and 0000), which results in a total of 4 x 16 = 64 bits. In the shortened representation of the IPv6 subnet, the leading zeros are omitted and the all-zero group is collapsed to ::. Subnetting with IPv6 is very si",
+    "word_count": 2000
+  },
+  {
+    "id": 44,
+    "summary": "end of this chapter, we will provide you with some useful links for learning more about it. Next, we’ll take a look at how to configure network services on openSUSE. openSUSE network configuration openSUSE provides several tools for network configuration: Wicked and NetworkManager. According to the official SUSE documentation, Wicked is used for all types of machines, from servers to laptops and w",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273
+    ],
+    "preview": "end of this chapter, we will provide you with some useful links for learning more about it. Next, we’ll take a look at how to configure network services on openSUSE. openSUSE network configuration openSUSE provides several tools for network configuration: Wicked and NetworkManager. According to the ",
+    "word_count": 2000
+  },
+  {
+    "id": 45,
+    "summary": "The DHCP protocol’s initial discovery workflow between a client and a server operates at the data link layer (Layer 2) in the OSI model. Since Layer 2 uses network frames as PDUs, the DHCP discovery packets cannot transcend the local network boundary. In other words, a DHCP client can only initiate communication with a local DHCP server. After the initial handshake (on Layer 2), DHCP turns to UDP ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279
+    ],
+    "preview": "The DHCP protocol’s initial discovery workflow between a client and a server operates at the data link layer (Layer 2) in the OSI model. Since Layer 2 uses network frames as PDUs, the DHCP discovery packets cannot transcend the local network boundary. In other words, a DHCP client can only initiate ",
+    "word_count": 2000
+  },
+  {
+    "id": 46,
+    "summary": "File sharing allows a client machine to access a remote filesystem as if it were local, with various protocols such as Server Message Block (SMB), Common Internet File System (CIFS), and Network File System (NFS) enabling this functionality. These protocols have different implementations, compatibility, and performance characteristics. The choice of protocol depends on factors such as compatibility, security, and performance. Different operating systems support different file-sharing protocols, ",
+    "keywords": [
+      "file sharing",
+      "network file-sharing services",
+      "Server Message Block",
+      "SMB",
+      "Common Internet File System",
+      "CIFS",
+      "Network File System",
+      "NFS",
+      "Apple Filing Protocol",
+      "AFP",
+      "client-server",
+      "file-sharing protocols",
+      "compatibility",
+      "security",
+      "performance"
+    ],
+    "entities": [
+      "International Business Machines Corporation",
+      "IBM",
+      "Microsoft",
+      "Sun Microsystems",
+      "Apple",
+      "Linux",
+      "Windows",
+      "Samba"
+    ],
+    "topics": [
+      "file sharing",
+      "network protocols",
+      "operating systems",
+      "compatibility",
+      "security",
+      "performance"
+    ],
+    "question_seeds": [
+      "What is file sharing and how does it work?",
+      "How do different file-sharing protocols compare in terms of compatibility and performance?",
+      "What are the advantages and disadvantages of using SMB versus CIFS?",
+      "How does Samba enable Windows clients to access Linux servers?",
+      "What are the key differences between NFS and SMB protocols?"
+    ],
+    "pages": [
+      279,
+      280,
+      281,
+      282,
+      283,
+      284
+    ],
+    "preview": "example of using a file server. To remain on topic, we’ll look at network file-sharing services next. File sharing In common networking terms, file sharing represents a client machine’s ability to mount and access a remote filesystem belonging to a server, as if it were local. Applications running o",
+    "word_count": 2000
+  },
+  {
+    "id": 47,
+    "summary": "server. We will start by connecting to the Gmail SMTP server, using a secure (TLS) connection via the openssl command, as follows: openssl s_client -starttls smtp -connect smtp.gmail.com:587 Here, we invoked the openssl command, simulated a client (s_client), started a TLS SMTP connection (-starttls smtp), and connected to the remote Gmail SMTP server on port 587 (-connect smtp.gmail.com:587). The",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "preview": "server. We will start by connecting to the Gmail SMTP server, using a secure (TLS) connection via the openssl command, as follows: openssl s_client -starttls smtp -connect smtp.gmail.com:587 Here, we invoked the openssl command, simulated a client (s_client), started a TLS SMTP connection (-starttls",
+    "word_count": 2000
+  },
+  {
+    "id": 48,
+    "summary": "such cases, the SSH server delegates the user authentication to a remote authentication server, as described in the Authentication servers section earlier in this chapter. Password authentication requires either user interaction or some automated way to provide the required credentials. Another similar authentication mechanism is keyboard-interactive authentication, described next. Keyboard-intera",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      290,
+      291,
+      292,
+      293,
+      294,
+      295
+    ],
+    "preview": "such cases, the SSH server delegates the user authentication to a remote authentication server, as described in the Authentication servers section earlier in this chapter. Password authentication requires either user interaction or some automated way to provide the required credentials. Another simi",
+    "word_count": 2000
+  },
+  {
+    "id": 49,
+    "summary": "when UNIX emerged as an operating system, the need for a standard to oversee different variants appeared. Thus, the Institute of Electrical and Electronics Engineers (IEEE) created the Portable Operating System Interface (POSIX) as a family of different standards that were meant to assure compatibility between operating systems. Therefore, UNIX and Linux, as well as macOS (based on Darwin, the ker",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      295,
+      296,
+      297,
+      298,
+      299,
+      300
+    ],
+    "preview": "when UNIX emerged as an operating system, the need for a standard to oversee different variants appeared. Thus, the Institute of Electrical and Electronics Engineers (IEEE) created the Portable Operating System Interface (POSIX) as a family of different standards that were meant to assure compatibil",
+    "word_count": 2000
+  },
+  {
+    "id": 50,
+    "summary": "specify the logged-in user’s home directory. The shell’s variables are only available inside the shell. If you want some variables to be known to other programs that are run by the shell, you must export them by using the export command. Once a variable is exported from the shell, it is known as an environment variable. The shell’s search path The PATH variable is an essential one in Linux. It hel",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      300,
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "preview": "specify the logged-in user’s home directory. The shell’s variables are only available inside the shell. If you want some variables to be known to other programs that are run by the shell, you must export them by using the export command. Once a variable is exported from the shell, it is known as an ",
+    "word_count": 2000
+  },
+  {
+    "id": 51,
+    "summary": "we used two different ways to show information with the echo command. When we used double quotes to show information, the environment variable was used inside the quoted string, and its value was displayed in the output. Keep in mind that when using single quotes, the value of the variable will not be passed through to the shell’s interpreter. We used four different environment variables to show i",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      305,
+      306,
+      307,
+      308,
+      309,
+      310
+    ],
+    "preview": "we used two different ways to show information with the echo command. When we used double quotes to show information, the environment variable was used inside the quoted string, and its value was displayed in the output. Keep in mind that when using single quotes, the value of the variable will not ",
+    "word_count": 2000
+  },
+  {
+    "id": 52,
+    "summary": "and no value for the others. When we used the read command for the second time, we provided values for every variable, thus hitting Enter after the word Thursday. This way, each variable received a relevant value. The read command has several options available, but you will have to read the manual to learn about them in detail. Similar to providing values from the standard input, the read command ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317
+    ],
+    "preview": "and no value for the others. When we used the read command for the second time, we provided values for every variable, thus hitting Enter after the word Thursday. This way, each variable received a relevant value. The read command has several options available, but you will have to read the manual t",
+    "word_count": 2000
+  },
+  {
+    "id": 53,
+    "summary": "This document discusses the use of conditional statements and looping statements in Bash. It covers the if-then, if-then-else, and nested if statements, as well as the for, while, and until looping statements. The document provides examples and syntax for each type of statement, including how to use conditional operators and how to iterate through repetitive tasks. It also includes examples of scripts that use these statements to perform tasks such as checking if a number is even or odd and chec",
+    "keywords": [
+      "Bash",
+      "if-then",
+      "if-then-else",
+      "nested if",
+      "conditional statements",
+      "looping statements",
+      "for",
+      "while",
+      "until",
+      "conditional operators",
+      "scripting",
+      "programming"
+    ],
+    "entities": [
+      "Bash",
+      "T.me/nettrain"
+    ],
+    "topics": [
+      "Bash scripting",
+      "conditional statements",
+      "looping statements",
+      "programming concepts"
+    ],
+    "question_seeds": [
+      "What is the syntax for an if-then statement in Bash?",
+      "How do you use conditional operators in Bash?",
+      "What is the purpose of looping statements in Bash?"
+    ],
+    "pages": [
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323
+    ],
+    "preview": "if-then-else-fi, and nested if, and conditional operators such as && (AND) and || (OR). We will show you how to use them in this section. We will present the if statement in all its appearances (if-then, if-then-else, and nested if) in this section: In its most common form, the if-then-fi statement ",
+    "word_count": 2000
+  },
+  {
+    "id": 54,
+    "summary": "long as the number you provide is greater than (-gt) zero, the commands will be executed. The commands inside the while loop are simply decreasing the number with every iteration. Otherwise, you will end up in an infinite loop. Thus, the value of the max variable will be lower by one point every time the while loop executes. We tested with two values, once with 10 and again with 30; you can see th",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330
+    ],
+    "preview": "long as the number you provide is greater than (-gt) zero, the commands will be executed. The commands inside the while loop are simply decreasing the number with every iteration. Otherwise, you will end up in an infinite loop. Thus, the value of the max variable will be lower by one point every tim",
+    "word_count": 2000
+  },
+  {
+    "id": 55,
+    "summary": "scenario as the function will output the values in the correct order and the script will reassemble the value into an array. Let’s see an example: Figure 8.36 – Using arrays inside functions In the preceding example, we used two functions, one for each of the scenarios described at the beginning of this subsection. The test_function_1 function inside the script shows the way we can pass array elem",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338
+    ],
+    "preview": "scenario as the function will output the values in the correct order and the script will reassemble the value into an array. Let’s see an example: Figure 8.36 – Using arrays inside functions In the preceding example, we used two functions, one for each of the scenarios described at the beginning of ",
+    "word_count": 2000
+  },
+  {
+    "id": 56,
+    "summary": "unnamed pipe) In our modified implementation, producer2.sh prints some data to the console (10 random UUID strings). consumer2.sh reads and displays either the data coming through the /dev/stdin pipe or the input arguments if the pipe is empty. Line 6 in the consumer2.sh script checks the presence of piped data in /dev/stdin (0 for fd0): if [ -t 0 ] The output of the producer-consumer communicatio",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343
+    ],
+    "preview": "unnamed pipe) In our modified implementation, producer2.sh prints some data to the console (10 random UUID strings). consumer2.sh reads and displays either the data coming through the /dev/stdin pipe or the input arguments if the pipe is empty. Line 6 in the consumer2.sh script checks the presence o",
+    "word_count": 2000
+  },
+  {
+    "id": 57,
+    "summary": "This document discusses using cron and crontab to schedule scripts in Linux, providing examples of how to set up cron jobs and explaining the definition process. It also covers creating a backup script and a random password generator script using Bash. The cron job is used to run a script at a specified time, and the backup script uses the tar command to archive files. The password generator script utilizes openssl and base64 encoding.",
+    "keywords": [
+      "cron",
+      "crontab",
+      "Linux",
+      "scheduling scripts",
+      "Bash",
+      "backup script",
+      "password generator",
+      "openssl",
+      "base64",
+      "tar command",
+      "Fedora",
+      "Vim"
+    ],
+    "entities": [
+      "Linux",
+      "Fedora",
+      "Vim",
+      "Bash",
+      "openssl",
+      "cron",
+      "crontab",
+      "packt"
+    ],
+    "topics": [
+      "Linux scripting",
+      "scheduling tasks",
+      "backup and recovery",
+      "password security",
+      "Bash scripting"
+    ],
+    "question_seeds": [
+      "What is cron and how is it used in Linux?",
+      "How do you schedule a script to run at a specific time using crontab?",
+      "What is the purpose of the backup script in Linux?",
+      "How does the password generator script work?",
+      "What is the difference between cron and crontab?"
+    ],
+    "pages": [
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349
+    ],
+    "preview": "date. To schedule the script, we will use cron and crontab. We will show you how they work in the next section. Scheduling scripts in Linux with cron Using crontab might look scary at first, but once you get to know it, you will find it very useful. Perhaps the most intimidating aspect of using cron",
+    "word_count": 2000
+  },
+  {
+    "id": 58,
+    "summary": "some default specifications from the SPEC file are not needed, such as BuildRequires, which was deleted. For the %build section, we did not provide any information as Bash does not need anything specific. The SPEC file is shown in the following screenshot: T.me/nettrain [PAGE 348] Figure 8.59 – The SPEC file’s entries 10. Build the RPM package: The RPMs are built based on the specifications inside",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354
+    ],
+    "preview": "some default specifications from the SPEC file are not needed, such as BuildRequires, which was deleted. For the %build section, we did not provide any information as Bash does not need anything specific. The SPEC file is shown in the following screenshot: T.me/nettrain [PAGE 348] Figure 8.59 – The ",
+    "word_count": 2000
+  },
+  {
+    "id": 59,
+    "summary": "policy database. A typical SELinux policy consists of the following resources (files), each reflecting a specific aspect of the security policy: Type enforcement: Actions that have been granted or denied for the policy (such as read or write access to a file) Interface: The application interface the policy interacts with (such as logging) File contexts: The system resources associated with the pol",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360
+    ],
+    "preview": "policy database. A typical SELinux policy consists of the following resources (files), each reflecting a specific aspect of the security policy: Type enforcement: Actions that have been granted or denied for the policy (such as read or write access to a file) Interface: The application interface the",
+    "word_count": 2000
+  },
+  {
+    "id": 60,
+    "summary": "be a specific security policy chain that allows the related domain to transition from passwd_exec_t to shadow_t; otherwise, passwd will not work as expected. Let’s validate our assumption. We’ll use the sesearch tool to query for our assumed security policy. The command utility is not installed by default on Fedora, so you will have to install the setools- console package first. Use the following ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367
+    ],
+    "preview": "be a specific security policy chain that allows the related domain to transition from passwd_exec_t to shadow_t; otherwise, passwd will not work as expected. Let’s validate our assumption. We’ll use the sesearch tool to query for our assumed security policy. The command utility is not installed by d",
+    "word_count": 2000
+  },
+  {
+    "id": 61,
+    "summary": "SSH on a different port (such as 2222), first, we need to configure the related service (sshd) to listen on a different port (shown in Chapter 13). We won’t go into those details here. Here, we need to enable the secure binding on the new port with the following command: sudo semanage port -a -t ssh_port_t -p tcp 2222 Here’s a brief explanation of the preceding command: -a (--add): Adds a new reco",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374
+    ],
+    "preview": "SSH on a different port (such as 2222), first, we need to configure the related service (sshd) to listen on a different port (shown in Chapter 13). We won’t go into those details here. Here, we need to enable the secure binding on the new port with the following command: sudo semanage port -a -t ssh",
+    "word_count": 2000
+  },
+  {
+    "id": 62,
+    "summary": "it is available by default on Ubuntu, Debian, and openSUSE. Let us explore it in the next section. Introducing AppArmor AppArmor is a Linux security module based on the MAC model that confines applications to a limited set of resources. AppArmor uses an access control mechanism based on security profiles that have been loaded into the Linux kernel. Each profile contains a collection of rules for a",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383
+    ],
+    "preview": "it is available by default on Ubuntu, Debian, and openSUSE. Let us explore it in the next section. Introducing AppArmor AppArmor is a Linux security module based on the MAC model that confines applications to a limited set of resources. AppArmor uses an access control mechanism based on security pro",
+    "word_count": 2000
+  },
+  {
+    "id": 63,
+    "summary": "The document discusses AppArmor and SELinux, two Linux security modules, and their differences in terms of functionality and usage. AppArmor is considered easier to use, especially when generating security policies, and is used by Debian, Ubuntu, and openSUSE, while SELinux is used by RHEL/Fedora and SLE. The document also introduces firewalls as a network security device that monitors and controls access to networks. Firewalls can block unwanted intrusion or attacks from the outside and can als",
+    "keywords": [
+      "AppArmor",
+      "SELinux",
+      "Linux security",
+      "firewalls",
+      "network security",
+      "kernel modules",
+      "security policies",
+      "Debian",
+      "Ubuntu",
+      "openSUSE",
+      "RHEL",
+      "Fedora",
+      "SLE",
+      "TCP/IP stack",
+      "Linux kernel"
+    ],
+    "entities": [
+      "AppArmor",
+      "SELinux",
+      "Debian",
+      "Ubuntu",
+      "openSUSE",
+      "RHEL",
+      "Fedora",
+      "SLE",
+      "Linux",
+      "TCP/IP",
+      "Linux kernel"
+    ],
+    "topics": [
+      "Linux security",
+      "AppArmor",
+      "SELinux",
+      "firewalls",
+      "network security"
+    ],
+    "question_seeds": [
+      "What is the difference between AppArmor and SELinux?",
+      "How do firewalls protect a local network from unwanted intrusion?",
+      "What is the role of the Linux kernel in network security?",
+      "When should I use AppArmor versus SELinux?",
+      "How do I configure a firewall to block unwanted traffic?"
+    ],
+    "pages": [
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389
+    ],
+    "preview": "security profiles to and from the kernel. Deleting AppArmor security profiles is functionally equivalent to disabling them. We can also choose to remove the related file from the filesystem altogether. If we delete a profile without removing it from the kernel first (with apparmor_parser -R), we can",
+    "word_count": 2000
+  },
+  {
+    "id": 64,
+    "summary": "tables to organize rules based on criteria or decision type. iptables defines the following tables: filter: The default table, which is used when we’re deciding if packets should be allowed to traverse specific chains (INPUT, FORWARD, OUTPUT). nat: Used with packets that require a source or destination address/port translation. The table operates on the following chains: PREROUTING, INPUT, OUTPUT,",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395
+    ],
+    "preview": "tables to organize rules based on criteria or decision type. iptables defines the following tables: filter: The default table, which is used when we’re deciding if packets should be allowed to traverse specific chains (INPUT, FORWARD, OUTPUT). nat: Used with packets that require a source or destinat",
+    "word_count": 2000
+  },
+  {
+    "id": 65,
+    "summary": "section. Prerequisites for our examples If you have an RHEL 7 system, nftables is not installed by default. You can install it with the following command: sudo yum install -y nftables The examples in this section use a Fedora 37 distribution. To directly configure nftables, we need to disable firewalld and potentially iptables (if you ran the examples in the Working with iptables section). The ste",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403
+    ],
+    "preview": "section. Prerequisites for our examples If you have an RHEL 7 system, nftables is not installed by default. You can install it with the following command: sudo yum install -y nftables The examples in this section use a Fedora 37 distribution. To directly configure nftables, we need to disable firewa",
+    "word_count": 2000
+  },
+  {
+    "id": 66,
+    "summary": "add the following rich-rule attribute: sudo firewall-cmd --zone=FedoraServer --add-rich-rule='rule protocol value=\"icmp\" reject' We can retrieve the FedoraServer zone information with the following command: sudo firewall-cmd --info-zone=public The rich-rule attribute reflects the updated configuration: T.me/nettrain [PAGE 402] Figure 9.54 – Getting the FedoraServer zone configuration with firewall",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410
+    ],
+    "preview": "add the following rich-rule attribute: sudo firewall-cmd --zone=FedoraServer --add-rich-rule='rule protocol value=\"icmp\" reject' We can retrieve the FedoraServer zone information with the following command: sudo firewall-cmd --info-zone=public The rich-rule attribute reflects the updated configurati",
+    "word_count": 2000
+  },
+  {
+    "id": 67,
+    "summary": "This document discusses Linux system security, including application security frameworks, firewall management tools, and disaster recovery practices. It highlights the importance of mastering these concepts to keep systems safe with minimal effort. The text also touches on various Linux distributions, such as Ubuntu and Fedora, and their respective security features. Additionally, it mentions the need for risk management and disaster recovery planning in system administration.",
+    "keywords": [
+      "Linux security",
+      "firewall management",
+      "application security frameworks",
+      "disaster recovery",
+      "SELinux",
+      "AppArmor",
+      "Ubuntu",
+      "Fedora",
+      "risk management",
+      "system administration",
+      "cyber security threats",
+      "IT risk management"
+    ],
+    "entities": [
+      "Linux",
+      "Ubuntu",
+      "Fedora",
+      "SELinux",
+      "AppArmor",
+      "Packt Publishing",
+      "Donald A. Tevault",
+      "Tajinder Kalsi"
+    ],
+    "topics": [
+      "Linux system security",
+      "disaster recovery",
+      "risk management",
+      "system administration",
+      "cyber security"
+    ],
+    "question_seeds": [
+      "What are the key components of Linux system security?",
+      "How does SELinux differ from AppArmor in terms of security policy enforcement?",
+      "What are the essential steps in planning for disaster recovery in Linux system administration?"
+    ],
+    "pages": [
+      409,
+      410,
+      411,
+      412,
+      413
+    ],
+    "preview": "firewall management solutions, and so on. Mastering the application security frameworks and firewall management tools will help you keep your systems safe with minimal effort. As with any typical Linux system administration task, there are many ways of securing your system. We hope that you will bui",
+    "word_count": 2000
+  },
+  {
+    "id": 68,
+    "summary": "a possible risk Risk transference: Transferring the risk’s possible outcome with an external entity Risk deterrence: Based on specific systems and policies that should discourage any attacker from exploiting the system Non-active actions: Risk acceptance: Accepting the risk if the other proactive actions could exceed the cost of the harm that’s done by the risk The strategies described here can be",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      414,
+      415,
+      416,
+      417,
+      418
+    ],
+    "preview": "a possible risk Risk transference: Transferring the risk’s possible outcome with an external entity Risk deterrence: Based on specific systems and policies that should discourage any attacker from exploiting the system Non-active actions: Risk acceptance: Accepting the risk if the other proactive ac",
+    "word_count": 2000
+  },
+  {
+    "id": 69,
+    "summary": "ddrescue twice since, the first time, it will copy only the good sectors and map the errors to a destination file. The second time, it will copy only the bad sectors, so it is better to add an option for several read attempts just to be sure. On Ubuntu, the ddrescue utility is not installed by default. To install it, use the following apt command: sudo apt install gddrescue We will use ddrescue on",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      418,
+      419,
+      420,
+      421,
+      422
+    ],
+    "preview": "ddrescue twice since, the first time, it will copy only the good sectors and map the errors to a destination file. The second time, it will copy only the bad sectors, so it is better to add an option for several read attempts just to be sure. On Ubuntu, the ddrescue utility is not installed by defau",
+    "word_count": 2000
+  },
+  {
+    "id": 70,
+    "summary": "record (MBR) or GUID Partition Table (GPT), and loads it into memory. GRUB2 initialization is where Linux starts to kick in. This is the stage when the system loads the kernel into memory. It can choose between several different kernels in case there’s more than one operating system available. Once the kernel has been loaded into memory, it takes control of the boot process. T.me/nettrain [PAGE 42",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428
+    ],
+    "preview": "record (MBR) or GUID Partition Table (GPT), and loads it into memory. GRUB2 initialization is where Linux starts to kick in. This is the stage when the system loads the kernel into memory. It can choose between several different kernels in case there’s more than one operating system available. Once ",
+    "word_count": 2000
+  },
+  {
+    "id": 71,
+    "summary": "error occurred. Thus, to enable data collection, first, we will start and enable the sysstat service, then we will run the application. With the sar command, you can generate different reports in real time. For example, if we want to generate a memory report times every two seconds, we will use the -r option: Figure 10.12 – Starting and enabling the service and running sar The service’s name is sy",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434
+    ],
+    "preview": "error occurred. Thus, to enable data collection, first, we will start and enable the sysstat service, then we will run the application. With the sar command, you can generate different reports in real time. For example, if we want to generate a memory report times every two seconds, we will use the ",
+    "word_count": 2000
+  },
+  {
+    "id": 72,
+    "summary": "command would show state DOWN. In our case, we will bring the wireless interface up using the following command: ip link set wlp0s20f3 up Once executed, you can check the state of the interface by running the ip command once again: ip link show If you have direct access to a bare metal system, maybe a server, you can directly check whether the wires are connected. If, by any chance, you are using ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442
+    ],
+    "preview": "command would show state DOWN. In our case, we will bring the wireless interface up using the following command: ip link set wlp0s20f3 up Once executed, you can check the state of the interface by running the ip command once again: ip link show If you have direct access to a bare metal system, maybe",
+    "word_count": 2000
+  },
+  {
+    "id": 73,
+    "summary": "This chapter discusses the importance of disaster recovery planning, backup and restore strategies, and troubleshooting various system issues in Linux administration. It highlights the role of system administrators in solving hardware-related issues and ensuring minimal downtime and data loss. The chapter also introduces the concept of virtual machines and KVM virtual machine management, Docker containers, and Linux server configuration. It provides a foundation for advanced Linux server adminis",
+    "keywords": [
+      "Linux administration",
+      "disaster recovery planning",
+      "backup and restore strategies",
+      "troubleshooting",
+      "system administrators",
+      "hardware issues",
+      "virtual machines",
+      "KVM",
+      "Docker containers",
+      "Linux server configuration",
+      "cloud technology"
+    ],
+    "entities": [
+      "Linux",
+      "KVM",
+      "Docker",
+      "Ubuntu",
+      "RHEL",
+      "SUSE",
+      "Kernel-based Virtual Machine"
+    ],
+    "topics": [
+      "Linux administration",
+      "disaster recovery",
+      "troubleshooting",
+      "virtualization",
+      "cloud technology",
+      "server administration"
+    ],
+    "question_seeds": [
+      "What is the importance of disaster recovery planning in Linux administration?",
+      "How do system administrators troubleshoot hardware issues?",
+      "What is the role of KVM in virtual machine management?"
+    ],
+    "pages": [
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447
+    ],
+    "preview": "and lscpu. The output of the lsblk command shows information about the disks and partitions being used on the system. The lscpu command will show details about the CPU. Also, when you’re troubleshooting hardware issues, taking a quick look at the kernel’s logs could prove useful. To do this, use the",
+    "word_count": 2000
+  },
+  {
+    "id": 74,
+    "summary": "share parts of libvirt and qemu code (to be detailed in the next section), and in this respect, we consider them to both be the same hypervisor, which is KVM. In Chapter 1, Installing Linux, you first encountered the use of a hypervisor to set up a Linux VM. We showed you how to use VMware solutions and VirtualBox to set up a Linux VM. The details used then should be sufficient for any user, wheth",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455
+    ],
+    "preview": "share parts of libvirt and qemu code (to be detailed in the next section), and in this respect, we consider them to both be the same hypervisor, which is KVM. In Chapter 1, Installing Linux, you first encountered the use of a hypervisor to set up a Linux VM. We showed you how to use VMware solutions",
+    "word_count": 2000
+  },
+  {
+    "id": 75,
+    "summary": "following commands: T.me/nettrain [PAGE 454] To force stop a VM: sudo virsh destroy ubuntu-vm1 To reboot a VM: sudo virsh reboot ubuntu-vm1 To pause (suspend) a VM: sudo virsh suspend ubuntu-vm1 To start a VM: sudo virsh start ubuntu-vm1 To resume an already suspended (paused) VM: sudo virsh resume ubuntu-vm1 To completely delete a VM guest: sudo virsh undefine ubuntu-vm1 For all the options avail",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463
+    ],
+    "preview": "following commands: T.me/nettrain [PAGE 454] To force stop a VM: sudo virsh destroy ubuntu-vm1 To reboot a VM: sudo virsh reboot ubuntu-vm1 To pause (suspend) a VM: sudo virsh suspend ubuntu-vm1 To start a VM: sudo virsh start ubuntu-vm1 To resume an already suspended (paused) VM: sudo virsh resume ",
+    "word_count": 2000
+  },
+  {
+    "id": 76,
+    "summary": "at the command line, some information is not as visible as when working with the GUI tools. To see if we still have the necessary sources for creating new VMs, we will need to use the virsh nodeinfo command to obtain information about the host machine: T.me/nettrain [PAGE 461] Figure 11.13 – Finding host information with the nodeinfo command In our case, as seen in the preceding image, the host ha",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469
+    ],
+    "preview": "at the command line, some information is not as visible as when working with the GUI tools. To see if we still have the necessary sources for creating new VMs, we will need to use the virsh nodeinfo command to obtain information about the host machine: T.me/nettrain [PAGE 461] Figure 11.13 – Finding",
+    "word_count": 2000
+  },
+  {
+    "id": 77,
+    "summary": "SSH key authentication, we generate a pair of two keys, a private and a public key. From those two keys, the private key will be stored on the local machine, and the public key will be used on the host VM. The keys are stored inside the .ssh directory in your user’s home directory. To generate a new pair of keys, you will have to use the ssh-keygen command. It can be used with options, the most re",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475
+    ],
+    "preview": "SSH key authentication, we generate a pair of two keys, a private and a public key. From those two keys, the private key will be stored on the local machine, and the public key will be used on the host VM. The keys are stored inside the .ssh directory in your user’s home directory. To generate a new",
+    "word_count": 2000
+  },
+  {
+    "id": 78,
+    "summary": "Unix Time Sharing (UTS): This isolates the system’s hostname and domain name Interprocess Communication (IPC): This allows processes to have their own IPC shared memory, queues, and semaphores Process Identification: This allows mapping of process IDs (PIDs) with the possibility of a process with PID 1 (the root of the process tree) to spin off a new tree with its own root process; processes insid",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483
+    ],
+    "preview": "Unix Time Sharing (UTS): This isolates the system’s hostname and domain name Interprocess Communication (IPC): This allows processes to have their own IPC shared memory, queues, and semaphores Process Identification: This allows mapping of process IDs (PIDs) with the possibility of a process with PI",
+    "word_count": 2000
+  },
+  {
+    "id": 79,
+    "summary": "Docker, your user should be added to the docker group. The existing groups in Linux are inside the /etc/group file. You can list the last lines (new groups are appended at the end of the file) to see the docker group as the last one created: tail /etc/group You can either add your existing user or create a new one. We will add our already existing user. Add the user with the following command: sud",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489
+    ],
+    "preview": "Docker, your user should be added to the docker group. The existing groups in Linux are inside the /etc/group file. You can list the last lines (new groups are appended at the end of the file) to see the docker group as the last one created: tail /etc/group You can either add your existing user or c",
+    "word_count": 2000
+  },
+  {
+    "id": 80,
+    "summary": "The document discusses troubleshooting Docker networking issues and managing network connections for Docker containers. It provides a step-by-step guide on how to use the docker network command to investigate and resolve connectivity problems. The guide also covers connecting a container to a network, installing Python, and saving a new Docker image. The process involves using various Docker commands, such as docker network ls, docker ps, and docker commit, to manage and troubleshoot Docker cont",
+    "keywords": [
+      "Docker",
+      "networking",
+      "troubleshooting",
+      "docker network",
+      "container",
+      "network connections",
+      "docker network ls",
+      "docker ps",
+      "docker commit",
+      "Python installation",
+      "Docker Hub"
+    ],
+    "entities": [
+      "Docker",
+      "Ubuntu",
+      "Python",
+      "Docker Hub",
+      "Packt"
+    ],
+    "topics": [
+      "Docker networking",
+      "container management",
+      "troubleshooting",
+      "Python installation",
+      "Docker image management"
+    ],
+    "question_seeds": [
+      "What is the purpose of the docker network command?",
+      "How do you troubleshoot Docker networking issues?",
+      "What is the difference between docker network ls and docker ps?",
+      "How do you connect a container to a network in Docker?",
+      "What is the process for saving a new Docker image to Docker Hub?"
+    ],
+    "pages": [
+      489,
+      490,
+      491,
+      492,
+      493,
+      494
+    ],
+    "preview": "thought would be that there is something wrong with Docker’s networking. In order to troubleshoot this, we have a useful command called docker network. It is used to manage network connections for the Docker container. In our case, the fault for the error message could be a missing connection betwee",
+    "word_count": 2000
+  },
+  {
+    "id": 81,
+    "summary": "Docker to deploy a very basic application. We will make it so simple that the app to deploy will be a basic static presentation website. Deploying a containerized application with Docker So far, we have shown you how to use Docker and how to manage containers. Docker is so much more than that, but this is enough to get you started and make you want to learn more. Docker is a great tool for develop",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      494,
+      495,
+      496,
+      497,
+      498,
+      499
+    ],
+    "preview": "Docker to deploy a very basic application. We will make it so simple that the app to deploy will be a basic static presentation website. Deploying a containerized application with Docker So far, we have shown you how to use Docker and how to manage containers. Docker is so much more than that, but t",
+    "word_count": 2000
+  },
+  {
+    "id": 82,
+    "summary": "and Signals, when we discussed what processes, daemons, and signals are and how to manage them on Linux. The mother of all processes is the init process, which is among the first processes when Linux boots up. Currently, the latest version of Ubuntu (and also CentOS, Fedora, openSUSE, and others) uses systemd as the default init process. We will refresh your memory by using some basic commands for",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      499,
+      500,
+      501,
+      502,
+      503,
+      504
+    ],
+    "preview": "and Signals, when we discussed what processes, daemons, and signals are and how to manage them on Linux. The mother of all processes is the init process, which is among the first processes when Linux boots up. Currently, the latest version of Ubuntu (and also CentOS, Fedora, openSUSE, and others) us",
+    "word_count": 2000
+  },
+  {
+    "id": 83,
+    "summary": "3. You will have to add a list of IP addresses inside the forwarders directive. This line tells the server where to look in order to find addresses not cached locally. For simplicity, we will add the Google public DNS servers, but feel free to use your Internet Service Provider’s (ISP’s) DNS servers. Now, edit the forwarders directive to look like this: forwarders { 8.8.8.8; 8.8.4.4; }; 4. You can",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510
+    ],
+    "preview": "3. You will have to add a list of IP addresses inside the forwarders directive. This line tells the server where to look in order to find addresses not cached locally. For simplicity, we will add the Google public DNS servers, but feel free to use your Internet Service Provider’s (ISP’s) DNS servers",
+    "word_count": 2000
+  },
+  {
+    "id": 84,
+    "summary": "BIND9 too. Once it is installed, you will need to follow these steps: 1. Go to the /etc/bind/named.conf.options file and add the following lines in an acl directive, before the already existing options directive: Figure 13.11 – Adding an acl directive on the secondary server T.me/nettrain [PAGE 509] 2. Also, add the following lines inside the options directive: Figure 13.12 – Adding new directives",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515
+    ],
+    "preview": "BIND9 too. Once it is installed, you will need to follow these steps: 1. Go to the /etc/bind/named.conf.options file and add the following lines in an acl directive, before the already existing options directive: Figure 13.11 – Adding an acl directive on the secondary server T.me/nettrain [PAGE 509]",
+    "word_count": 2000
+  },
+  {
+    "id": 85,
+    "summary": "following command: sudo exportfs -a The -a options export all directories without specifying a path. 9. Once the service is restarted and running, you can set up a firewall to allow NFS access. For this, it is extremely useful to know that the port NFS is using port 2049 by default. As we allow all the systems from our network to access the shares, we will add the following new rule to the firewal",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522
+    ],
+    "preview": "following command: sudo exportfs -a The -a options export all directories without specifying a path. 9. Once the service is restarted and running, you can set up a firewall to allow NFS access. For this, it is extremely useful to know that the port NFS is using port 2049 by default. As we allow all ",
+    "word_count": 2000
+  },
+  {
+    "id": 86,
+    "summary": "the shared directory. To do this, we follow these steps: 1. We add the acl package in Ubuntu with the following command: sudo apt install acl 2. Then we use the setfacl command to set read, write, and execute permissions for the /home/packt/samba_shares directory. For this, we use the following command: sudo setfacl -R -m \"u:alex:rwx\" /home/packt/samba_shares In the next section, we will show you ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528
+    ],
+    "preview": "the shared directory. To do this, we follow these steps: 1. We add the acl package in Ubuntu with the following command: sudo apt install acl 2. Then we use the setfacl command to set read, write, and execute permissions for the /home/packt/samba_shares directory. For this, we use the following comm",
+    "word_count": 2000
+  },
+  {
+    "id": 87,
+    "summary": "Commission (IEC), and they currently have 28 published and under-development standards on cloud computing and distributed platforms. They have a joint task group to develop standards for specific cloud core infrastructure, consumer application platforms, and services. Those standards are found under the responsibility of the Joint Technical Committee 1 (JTC 1) subcommittee 38 (SC38), or ISO/IEC JT",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      528,
+      529,
+      530,
+      531,
+      532
+    ],
+    "preview": "Commission (IEC), and they currently have 28 published and under-development standards on cloud computing and distributed platforms. They have a joint task group to develop standards for specific cloud core infrastructure, consumer application platforms, and services. Those standards are found under",
+    "word_count": 2000
+  },
+  {
+    "id": 88,
+    "summary": "and off-premises hardware infrastructure. There are managed private clouds available, or dedicated private clouds. Hybrid clouds: These are both private and public clouds running inside connected environments, with resources available for potential on-demand scaling. Multi-clouds: These are more than one cloud running from more than one provider. Besides the cloud infrastructure types, there are a",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      532,
+      533,
+      534,
+      535,
+      536
+    ],
+    "preview": "and off-premises hardware infrastructure. There are managed private clouds available, or dedicated private clouds. Hybrid clouds: These are both private and public clouds running inside connected environments, with resources available for potential on-demand scaling. Multi-clouds: These are more tha",
+    "word_count": 2000
+  },
+  {
+    "id": 89,
+    "summary": "The cloud instance deployment process is discussed, with services like Lightsail from Amazon and Google's GCE offering easy deployment of virtual private servers or VMs. These services provide a straightforward interface and reliable infrastructure. PaaS solutions, such as Amazon Elastic Beanstalk and Google App Engine, offer a hardware layer and application layer, with the CSP hosting the hardware and software. This allows application developers to focus on development without managing the unde",
+    "keywords": [
+      "Lightsail",
+      "Amazon",
+      "Google",
+      "GCE",
+      "IaaS",
+      "PaaS",
+      "Elastic Beanstalk",
+      "App Engine",
+      "DigitalOcean",
+      "App Platform",
+      "Cloud Computing",
+      "Virtual Private Servers",
+      "VMs"
+    ],
+    "entities": [
+      "Amazon",
+      "Google",
+      "DigitalOcean",
+      "Microsoft",
+      "Linode",
+      "Hetzner",
+      "DigitalOcean App Platform",
+      "Google App Engine",
+      "Amazon Elastic Beanstalk"
+    ],
+    "topics": [
+      "Cloud Computing",
+      "IaaS",
+      "PaaS",
+      "Virtual Private Servers",
+      "Cloud Deployment"
+    ],
+    "question_seeds": [
+      "What is the difference between IaaS and PaaS?",
+      "How does Amazon Lightsail compare to Google GCE?",
+      "What are the benefits of using a PaaS solution like Amazon Elastic Beanstalk?"
+    ],
+    "pages": [
+      535,
+      536,
+      537,
+      538,
+      539
+    ],
+    "preview": "and the cloud instance will be deployed in a matter of seconds. T.me/nettrain [PAGE 535] Similar to the offerings of DigitalOcean, Linode, and Hetzner, there is a relatively new offering from Amazon (starting in 2017), called Lightsail. This service was introduced in order to offer clients an easy w",
+    "word_count": 2000
+  },
+  {
+    "id": 90,
+    "summary": "around it needs a lot of practice and dedication. No matter how complex it is, Kubernetes does not do everything for you. You still have to choose the container runtime (supported runtimes are Docker, containerd, and Container Runtime Interface (CRI)-O), CI/CD tools, the storage solution, access control, and app services. Managing Kubernetes clusters is out of the scope of this chapter, but you wi",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      539,
+      540,
+      541,
+      542,
+      543
+    ],
+    "preview": "around it needs a lot of practice and dedication. No matter how complex it is, Kubernetes does not do everything for you. You still have to choose the container runtime (supported runtimes are Docker, containerd, and Container Runtime Interface (CRI)-O), CI/CD tools, the storage solution, access con",
+    "word_count": 2000
+  },
+  {
+    "id": 91,
+    "summary": "servers and agents. Puppet works with infrastructure code written using domain-specific language (DSL) code specific to Puppet, based on the Ruby programming language. The code is written on the primary server, transferred to the agent, and then translated into commands that are executed on the system you want to manage. Puppet also has an inventory tool called Facter, which stores data about the ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      543,
+      544,
+      545,
+      546,
+      547
+    ],
+    "preview": "servers and agents. Puppet works with infrastructure code written using domain-specific language (DSL) code specific to Puppet, based on the Ruby programming language. The code is written on the primary server, transferred to the agent, and then translated into commands that are executed on the syst",
+    "word_count": 2000
+  },
+  {
+    "id": 92,
+    "summary": "also provide graphical processing unit (GPU) or field programmable gate array (FPGA) computing capabilities. A detailed view of EC2 instance provisioning types is beyond the scope of this chapter. You can explore the related information at https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html or https://aws.amazon.com/ec2/instance-types/. Pricing: How much you pay for running you",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "preview": "also provide graphical processing unit (GPU) or field programmable gate array (FPGA) computing capabilities. A detailed view of EC2 instance provisioning types is beyond the scope of this chapter. You can explore the related information at https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance",
+    "word_count": 2000
+  },
+  {
+    "id": 93,
+    "summary": "a reserved EC2 instance: T.me/nettrain [PAGE 557] Figure 15.12 – Purchasing a reserved EC2 instance For more information about EC2 reserved instances, please visit https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html. We have learned that reserved instances are a cost-effective alternative to on-demand EC2 instances. Now, let’s take our journey further and look at yet an",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563
+    ],
+    "preview": "a reserved EC2 instance: T.me/nettrain [PAGE 557] Figure 15.12 – Purchasing a reserved EC2 instance For more information about EC2 reserved instances, please visit https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html. We have learned that reserved instances are a cost-effe",
+    "word_count": 2000
+  },
+  {
+    "id": 94,
+    "summary": "application or a group of applications. The related platform’s administration and maintenance usually require terminal access. The way to access these instances (or any other service) is determined by how AWS differentiates the available services into two different concepts, similar to the ones used in networking – control plane and data plane. These are concepts that represent how EC2 instances c",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571
+    ],
+    "preview": "application or a group of applications. The related platform’s administration and maintenance usually require terminal access. The way to access these instances (or any other service) is determined by how AWS differentiates the available services into two different concepts, similar to the ones used",
+    "word_count": 2000
+  },
+  {
+    "id": 95,
+    "summary": "12. Now, let’s make it accessible to our local filesystem. We’ll name our mount point packt_drive and create it in the root directory: sudo mkdir /packt_drive sudo mount /dev/xvdf /packt_drive At this point, the EBS volume is mounted. Now, when we access the /packt directory, we’re accessing the EBS volume: Figure 15.24 – Accessing the EBS volume Working with EBS volumes is similar to working with",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578
+    ],
+    "preview": "12. Now, let’s make it accessible to our local filesystem. We’ll name our mount point packt_drive and create it in the root directory: sudo mkdir /packt_drive sudo mount /dev/xvdf /packt_drive At this point, the EBS volume is mounted. Now, when we access the /packt directory, we’re accessing the EBS",
+    "word_count": 2000
+  },
+  {
+    "id": 96,
+    "summary": "This document chunk discusses Amazon Web Services (AWS) and Microsoft Azure, focusing on EC2 instances, tagging, and terminating instances using the AWS CLI. It also introduces Azure as a public cloud service for building and deploying application services. The chunk provides examples of basic deployment workflows using Azure, such as creating a Linux virtual machine and working with the Azure CLI. The goal is to provide a basic understanding of cloud management workloads in AWS and Azure.",
+    "keywords": [
+      "AWS",
+      "EC2",
+      "Azure",
+      "Microsoft Azure",
+      "Cloud Management",
+      "AWS CLI",
+      "Azure CLI",
+      "Virtual Machine",
+      "Infrastructure-as-a-Service",
+      "IaaS",
+      "Tagging",
+      "Terminating Instances"
+    ],
+    "entities": [
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "AWS EC2",
+      "Azure CLI",
+      "AWS CLI"
+    ],
+    "topics": [
+      "Cloud Computing",
+      "AWS EC2",
+      "Microsoft Azure",
+      "Cloud Management",
+      "Virtual Machines"
+    ],
+    "question_seeds": [
+      "What is the purpose of tagging EC2 instances?",
+      "How do you terminate an EC2 instance using the AWS CLI?",
+      "What are the basic deployment workflows in Microsoft Azure?"
+    ],
+    "pages": [
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587
+    ],
+    "preview": "Key=Name,Value=aws_packt_testing_2 Now, we can add a tag to the new instance. Adding a name and a tag can be done in a single command, but for a better understanding, we’ve decided to use two different commands. Here’s how to add a tag: aws ec2 create-tags \\ --resources i-0e1692c9dfdf07a8d \\ --tags ",
+    "word_count": 2000
+  },
+  {
+    "id": 97,
+    "summary": "machine’s Overview tab and then click SSH. This action will bring up a view where you can see the preceding commands and copy and paste them into your terminal. A successful connection to our Ubuntu instance should yield the following output: Figure 15.40 – Connecting to the Azure virtual machine T.me/nettrain [PAGE 586] Now that we’ve created our first virtual machine in Azure, let’s look at some",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595
+    ],
+    "preview": "machine’s Overview tab and then click SSH. This action will bring up a view where you can see the preceding commands and copy and paste them into your terminal. A successful connection to our Ubuntu instance should yield the following output: Figure 15.40 – Connecting to the Azure virtual machine T.",
+    "word_count": 2000
+  },
+  {
+    "id": 98,
+    "summary": "management tasks and a few essential concepts about provisioning cloud resources. Overall, you’ve enabled a special skillset of modern- day Linux administrators by engaging in cloud-native administration workflows. Combined with the knowledge you’ve built so far, you are assembling a valuable Linux administration toolbelt for on- premises, public, and hybrid cloud systems management. In the next c",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      594,
+      595,
+      596,
+      597,
+      598,
+      599
+    ],
+    "preview": "management tasks and a few essential concepts about provisioning cloud resources. Overall, you’ve enabled a special skillset of modern- day Linux administrators by engaging in cloud-native administration workflows. Combined with the knowledge you’ve built so far, you are assembling a valuable Linux ",
+    "word_count": 2000
+  },
+  {
+    "id": 99,
+    "summary": "service mesh. Considering the classic example of a web application, we may have the following pods running in the cluster: Web server (Nginx) Authentication (Vault) Database (PostgreSQL) Storage (NAS) Each of these services (or applications) runs within their pod. Multiple pods of the same application (for example, a web server) make up a ReplicaSet. We’ll look at ReplicaSets closer in the Introdu",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      599,
+      600,
+      601,
+      602,
+      603,
+      604
+    ],
+    "preview": "service mesh. Considering the classic example of a web application, we may have the following pods running in the cluster: Web server (Nginx) Authentication (Vault) Database (PostgreSQL) Storage (NAS) Each of these services (or applications) runs within their pod. Multiple pods of the same applicati",
+    "word_count": 2000
+  },
+  {
+    "id": 100,
+    "summary": "Before installing or using Kubernetes, you have to decide on the infrastructure you’ll use, whether that be on-premises or public cloud. Second, you’ll have to choose between an Infrastructure-as-a- Service (IaaS) or a Platform-as-a-Service (PaaS) model. With IaaS, you’ll have to install, configure, manage, and maintain the Kubernetes cluster yourself, either on physical (bare metal) or VMs. The r",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613
+    ],
+    "preview": "Before installing or using Kubernetes, you have to decide on the infrastructure you’ll use, whether that be on-premises or public cloud. Second, you’ll have to choose between an Infrastructure-as-a- Service (IaaS) or a Platform-as-a-Service (PaaS) model. With IaaS, you’ll have to install, configure,",
+    "word_count": 2000
+  },
+  {
+    "id": 101,
+    "summary": "of the file): [plugins.\"io.containerd.grpc.v1.cri\".containerd.runtimes.runc] 11. Then, add the highlighted lines, adjusting the appropriate indentation (this is very important): [plugins.\"io.containerd.grpc.v1.cri\".containerd.runtimes.runc] ... [plugins.\"io.containerd.grpc.v1.cri\".containerd.runtimes.runc.options] SystemdCgroup = true Here’s the resulting configuration stub: T.me/nettrain [PAGE 61",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618
+    ],
+    "preview": "of the file): [plugins.\"io.containerd.grpc.v1.cri\".containerd.runtimes.runc] 11. Then, add the highlighted lines, adjusting the appropriate indentation (this is very important): [plugins.\"io.containerd.grpc.v1.cri\".containerd.runtimes.runc] ... [plugins.\"io.containerd.grpc.v1.cri\".containerd.runtime",
+    "word_count": 2000
+  },
+  {
+    "id": 102,
+    "summary": "Kubernetes environment: Figure 16.13 – Changing the kubernetesVersion parameter The default value is 1.28.0, but our Kubernetes version, using the following command, is 1.28.2: kubeadm version The output is as follows: Figure 16.14 – Retrieving the current version of Kubernetes T.me/nettrain [PAGE 617] 7. Our final modification of the cluster configuration file sets the cgroup driver of kubelet to",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624
+    ],
+    "preview": "Kubernetes environment: Figure 16.13 – Changing the kubernetesVersion parameter The default value is 1.28.0, but our Kubernetes version, using the following command, is 1.28.2: kubeadm version The output is as follows: Figure 16.14 – Retrieving the current version of Kubernetes T.me/nettrain [PAGE 6",
+    "word_count": 2000
+  },
+  {
+    "id": 103,
+    "summary": "This document chunk discusses the usage of the kubectl command, a tool for interacting with Kubernetes clusters. It covers the general usage pattern of kubectl, including parameters such as --dry-run and --output, and provides examples of using the command. The chunk also explains how to install kubectl on a local machine, configure the kubectl environment, and connect to a remote Kubernetes cluster. Additionally, it provides steps for merging cluster configurations and updating kubeconfig.",
+    "keywords": [
+      "kubectl",
+      "Kubernetes",
+      "cluster",
+      "container",
+      "pod",
+      "deployment",
+      "--dry-run",
+      "--output",
+      "yaml",
+      "json",
+      "kubeconfig",
+      "Linux",
+      "Debian",
+      "VMs",
+      "CP node"
+    ],
+    "entities": [
+      "Kubernetes",
+      "kubectl",
+      "Debian",
+      "Linux",
+      "VMs",
+      "CP node",
+      "k8s-cp1",
+      "k8s-local",
+      "kubernetes-admin",
+      "packt"
+    ],
+    "topics": [
+      "Kubernetes management",
+      "kubectl usage",
+      "cluster configuration",
+      "container orchestration",
+      "Linux administration"
+    ],
+    "question_seeds": [
+      "What is the purpose of the kubectl command?",
+      "How do you install kubectl on a Linux system?",
+      "What is the difference between --dry-run and --output parameters in kubectl?",
+      "How do you connect to a remote Kubernetes cluster using kubectl?",
+      "What is the role of kubeconfig in kubectl environment?"
+    ],
+    "pages": [
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634
+    ],
+    "preview": "resources T.me/nettrain [PAGE 623] explain: This provides resource-related documentation logs: This shows the logs in pod containers A couple of frequently used parameters of the kubectl command are also worth mentioning: --dry-run: This runs the command without modifying the system state while stil",
+    "word_count": 2000
+  },
+  {
+    "id": 104,
+    "summary": "by querying the pods for detailed information: kubectl get pods -o wide Let’s analyze the output: T.me/nettrain [PAGE 631] Figure 16.35 – Getting the application pods with detailed information In the preceding output, you can see the series of commands described, and we can also see that our pods are up and running and that Kubernetes deployed them on separate nodes: packt-579bb9c999-rtvzr: On clu",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641
+    ],
+    "preview": "by querying the pods for detailed information: kubectl get pods -o wide Let’s analyze the output: T.me/nettrain [PAGE 631] Figure 16.35 – Getting the application pods with detailed information In the preceding output, you can see the series of commands described, and we can also see that our pods ar",
+    "word_count": 2000
+  },
+  {
+    "id": 105,
+    "summary": "the cluster nodes on port 32664. To get a list of our cluster nodes with their respective IP addresses and hostnames, we can run the following command: T.me/nettrain [PAGE 639] kubectl get nodes -o jsonpath='{range .items[*]}{.status.addresses[*].address} {\"\\n\"}' The output is as follows: Figure 16.46 – List of cluster nodes 4. Let’s choose the CP node (192.168.122.104/k8s-cp1) and enter the follo",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651
+    ],
+    "preview": "the cluster nodes on port 32664. To get a list of our cluster nodes with their respective IP addresses and hostnames, we can run the following command: T.me/nettrain [PAGE 639] kubectl get nodes -o jsonpath='{range .items[*]}{.status.addresses[*].address} {\"\\n\"}' The output is as follows: Figure 16.",
+    "word_count": 2000
+  },
+  {
+    "id": 106,
+    "summary": "This chapter provides a comprehensive overview of Kubernetes, including its architecture, API object model, and common cluster resources such as pods, Deployments, and Services. It also covers the process of building an on-premises Kubernetes cluster from scratch using VMs and explores various CLI tools for managing Kubernetes cluster resources. The chapter discusses deploying and scaling applications in Kubernetes using imperative and declarative Deployment scenarios. Additionally, it touches o",
+    "keywords": [
+      "Kubernetes",
+      "Kubectl",
+      "Deployment",
+      "Pods",
+      "Services",
+      "CLI tools",
+      "On-premises cluster",
+      "Managed Kubernetes Services",
+      "Amazon EKS",
+      "Azure AKS",
+      "Google GKE",
+      "Imperative Deployment",
+      "Declarative Deployment",
+      "Cloud computing"
+    ],
+    "entities": [
+      "Kubernetes",
+      "Amazon",
+      "Azure",
+      "Google",
+      "EKS",
+      "AKS",
+      "GKE",
+      "etcd"
+    ],
+    "topics": [
+      "Kubernetes architecture",
+      "Kubernetes deployment",
+      "Cloud computing",
+      "Container orchestration",
+      "DevOps",
+      "Application deployment"
+    ],
+    "question_seeds": [
+      "What is the difference between imperative and declarative Deployment in Kubernetes?",
+      "How do you deploy a Kubernetes cluster on-premises?",
+      "What are the benefits of using Managed Kubernetes Services in the cloud?"
+    ],
+    "pages": [
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657
+    ],
+    "preview": "made on the fly with kubectl edit will not be reflected in the Deployment manifest (packt.yaml). Nevertheless, the related configuration changes are persisted in the cluster (etcd). T.me/nettrain [PAGE 650] 6. We can verify our updated Deployment with the help of the following command: kubectl get d",
+    "word_count": 2000
+  },
+  {
+    "id": 107,
+    "summary": "framework: The main libraries encapsulating Ansible’s core functionality; the Ansible core framework is written in Python Plugins: Additional libraries extending the core framework’s functionality – for instance, the following: Connection plugins, such as cloud connectors Test plugins, verifying specific response data Callback plugins for responding to events Modules: These encapsulate specific fu",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663
+    ],
+    "preview": "framework: The main libraries encapsulating Ansible’s core functionality; the Ansible core framework is written in Python Plugins: Additional libraries extending the core framework’s functionality – for instance, the following: Connection plugins, such as cloud connectors Test plugins, verifying spe",
+    "word_count": 2000
+  },
+  {
+    "id": 108,
+    "summary": "let’s briefly describe the setup for these VMs, starting with managed hosts. Setting up managed hosts There are a couple of key requirements for managed hosts to fully enable configuration management access from the Ansible control node: They must have an OpenSSH server installed and running They must have Python installed T.me/nettrain [PAGE 662] As specified in the Technical requirements section",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669
+    ],
+    "preview": "let’s briefly describe the setup for these VMs, starting with managed hosts. Setting up managed hosts There are a couple of key requirements for managed hosts to fully enable configuration management access from the Ansible control node: They must have an OpenSSH server installed and running They mu",
+    "word_count": 2000
+  },
+  {
+    "id": 109,
+    "summary": "your choice, add the following content to the hosts file: T.me/nettrain [PAGE 668] Figure 17.7 – The inventory file in INI format After saving the inventory file, we can validate it with the following command: ansible-inventory -i ./hosts –-list --yaml Here’s a brief explanation of the command’s parameters: -i (--inventory): Specifies the inventory file; that is, ./hosts --list: Lists the current ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678
+    ],
+    "preview": "your choice, add the following content to the hosts file: T.me/nettrain [PAGE 668] Figure 17.7 – The inventory file in INI format After saving the inventory file, we can validate it with the following command: ansible-inventory -i ./hosts –-list --yaml Here’s a brief explanation of the command’s par",
+    "word_count": 2000
+  },
+  {
+    "id": 110,
+    "summary": "to authenticate successfully with the changeit! password. Deleting a user To delete the webuser account on all web servers, we can run the following ad hoc command: ansible -m user -a \"name=webuser state=absent remove=yes force=yes\" webservers The state=absent module parameter invokes the deletion of the webuser account. The remove and force parameters are equivalent to the userdel -rf command, de",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686
+    ],
+    "preview": "to authenticate successfully with the changeit! password. Deleting a user To delete the webuser account on all web servers, we can run the following ad hoc command: ansible -m user -a \"name=webuser state=absent remove=yes force=yes\" webservers The state=absent module parameter invokes the deletion o",
+    "word_count": 2000
+  },
+  {
+    "id": 111,
+    "summary": "This document discusses Ansible playbooks, including syntax checking, deleting users, and using variables to streamline configuration management workflows. It explains how to write and use variables in playbooks, including setting values for variables using a hierarchical model. The document also covers the use of global, group, host, and play variables. Additionally, it provides examples of how to leverage variables in playbooks to make them reusable and dynamic.",
+    "keywords": [
+      "Ansible",
+      "playbooks",
+      "syntax checking",
+      "variables",
+      "configuration management",
+      "workflow",
+      "hierarchical model",
+      "global variables",
+      "group variables",
+      "host variables",
+      "play variables",
+      "ansible-playbook",
+      "yaml"
+    ],
+    "entities": [
+      "Ansible",
+      "Ubuntu",
+      "Ansible facts",
+      "https://docs.ansible.com/"
+    ],
+    "topics": [
+      "Ansible playbooks",
+      "configuration management",
+      "variables",
+      "workflow automation"
+    ],
+    "question_seeds": [
+      "What is the purpose of syntax checking in Ansible playbooks?",
+      "How do variables improve the reusability of Ansible playbooks?",
+      "What are the different types of variables in Ansible and how are they used?"
+    ],
+    "pages": [
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693
+    ],
+    "preview": "of managed hosts --syntax-check: Validates the playbook’s syntax without making any changes; this option is only available for the ansible-playbook command Let’s experiment with a second playbook, this time for deleting a user. We’ll name the playbook delete-user.yml and add the following content: T",
+    "word_count": 2000
+  },
+  {
+    "id": 112,
+    "summary": "variable The last line contains sensitive data; the password is shown in plain text. We have a few options here to protect our data: Encrypt the webservers.yml file. If we choose to encrypt the webservers.yml file, we could possibly incur the overhead of encrypting non-sensitive data, such as the username or other general-purpose information. If we have many users, encrypting and decrypting non-se",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700
+    ],
+    "preview": "variable The last line contains sensitive data; the password is shown in plain text. We have a few options here to protect our data: Encrypt the webservers.yml file. If we choose to encrypt the webservers.yml file, we could possibly incur the overhead of encrypting non-sensitive data, such as the us",
+    "word_count": 2000
+  },
+  {
+    "id": 113,
+    "summary": "This document discusses using Ansible Vault for encrypting sensitive data and creating multiple user accounts with unique passwords. It highlights the inefficiency of overriding variables using the --extra-vars option and introduces task iteration in Ansible playbooks as a more efficient approach. The use of loops in Ansible playbooks is explained, including the loop directive and its application in creating and deleting multiple users. The document also provides examples of playbooks that demon",
+    "keywords": [
+      "Ansible Vault",
+      "Ansible playbooks",
+      "task iteration",
+      "loops",
+      "user accounts",
+      "passwords",
+      "encryption",
+      "ansible-playbook",
+      "vault-id",
+      "apikeys.pass",
+      "create-users-new.yml",
+      "loop directive"
+    ],
+    "entities": [
+      "Ansible",
+      "Ansible Vault",
+      "apikeys.pass",
+      "create-users-new.yml",
+      "ansible-playbook"
+    ],
+    "topics": [
+      "Ansible",
+      "Automation",
+      "Encryption",
+      "User Management",
+      "Playbooks",
+      "Loops"
+    ],
+    "question_seeds": [
+      "What is Ansible Vault and how is it used?",
+      "How do you create multiple user accounts with unique passwords using Ansible?",
+      "What is the purpose of the loop directive in Ansible playbooks?"
+    ],
+    "pages": [
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710
+    ],
+    "preview": "which reads the corresponding vault ID password from the apikeys.pass file: ansible-vault encrypt --vault-id apikeys@apikeys.pass apikeys.yml You can name your vault password files anything you want, but keeping a consistent naming convention, possibly one that matches the related vault ID, will mak",
+    "word_count": 2000
+  },
+  {
+    "id": 114,
+    "summary": "variables in the current play ansible_version: The version of Ansible To see magic variables in action while using conditional tasks, we’ll improve our create-users playbook even further and create specific groups of users on different host groups. So far, the playbook only creates users on hosts that belong to the webservers group (web1, web2). The playbook creates webuser, webadmin, and webdev u",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718
+    ],
+    "preview": "variables in the current play ansible_version: The version of Ansible To see magic variables in action while using conditional tasks, we’ll improve our create-users playbook even further and create specific groups of users on different host groups. So far, the playbook only creates users on hosts th",
+    "word_count": 2000
+  },
+  {
+    "id": 115,
+    "summary": "The command should complete successfully. Here is a screenshot of our output: Figure 17.58 – Running the update-motd.yml playbook 5. You can immediately verify the motd message on any of the hosts (for example, ans-web1) with the following command: T.me/nettrain [PAGE 717] ansible ans-web1 -a \"cat /etc/motd\" The preceding command runs remotely on the ans-web1 host and displays the content of the /",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      717,
+      718,
+      719,
+      720,
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727
+    ],
+    "preview": "The command should complete successfully. Here is a screenshot of our output: Figure 17.58 – Running the update-motd.yml playbook 5. You can immediately verify the motd message on any of the hosts (for example, ans-web1) with the following command: T.me/nettrain [PAGE 717] ansible ans-web1 -a \"cat /",
+    "word_count": 2000
+  },
+  {
+    "id": 116,
+    "summary": "725] Figure 17.69 – The modified create-users-role.yml file We made the following modifications: We readjusted the loop directive to read users.list instead of users.webusers due to the name change of the related dictionary key in the users.yml file We refactored the include_vars file references to use variables instead of hardcoded filenames We added a vars section, with the users_file and passwo",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      726,
+      727,
+      728,
+      729,
+      730,
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742
+    ],
+    "preview": "725] Figure 17.69 – The modified create-users-role.yml file We made the following modifications: We readjusted the loop directive to read users.list instead of users.webusers due to the name change of the related dictionary key in the users.yml file We refactored the include_vars file references to ",
+    "word_count": 2000
+  },
+  {
+    "id": 117,
+    "summary": "using, in absolute mode 146 using, in relative mode 144-146 chown using 147, 148 chroot 446 classical terminal 34 classic IDE drivers used, for ATA drives 191 Classless Inter-Domain Routing (CIDR) 228 cloud Kubernetes, running 629 cloud architecture 506, 507 types of infrastructure and services, describing 507, 508 cloud computing disadvantages 508 features 508 Cloud Foundry 513 Cloud Infrastructu",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753,
+      754,
+      755,
+      756,
+      757,
+      758,
+      759
+    ],
+    "preview": "using, in absolute mode 146 using, in relative mode 144-146 chown using 147, 148 chroot 446 classical terminal 34 classic IDE drivers used, for ATA drives 191 Classless Inter-Domain Routing (CIDR) 228 cloud Kubernetes, running 629 cloud architecture 506, 507 types of infrastructure and services, des",
+    "word_count": 2000
+  },
+  {
+    "id": 118,
+    "summary": "129, 130 users, managing 129 users, moving across 131-134 users, removing 131-134 viewing 134, 135 group variables 666 GUID Partition Table (GPT) 197, 395 H hard disk drives (HDDs) 192 hard link 50 Hardware Abstraction Layer (HAL) 207 hardware-based virtualization 421 hardware issues troubleshooting, tools 412, 413 head command 55, 56 Heroku 387, 513 Hetzner 510 Hiera 518 hierarchies 448 host-base",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776
+    ],
+    "preview": "129, 130 users, managing 129 users, moving across 131-134 users, removing 131-134 viewing 134, 135 group variables 666 GUID Partition Table (GPT) 197, 395 H hard disk drives (HDDs) 192 hard link 50 Hardware Abstraction Layer (HAL) 207 hardware-based virtualization 421 hardware issues troubleshooting",
+    "word_count": 2000
+  },
+  {
+    "id": 119,
+    "summary": "(OSI) 217 Open Virtualization Format (OVF) 503 OpenWRT 7 T.me/nettrain [PAGE 772] openZFS 193 reference link 193 Oracle’s VirtualBox 20 using 20 Oracle VM VirtualBox URL 13 Organization for the Advancement of Structured Information Stand-ards (OASIS) 505 orphan process 162 OSI model 217, 218 application layer 221, 222 data decapsulation 219 data encapsulation 218 data link layer 219 network layer ",
+    "keywords": [],
+    "entities": [],
+    "topics": [],
+    "question_seeds": [],
+    "pages": [
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792
+    ],
+    "preview": "(OSI) 217 Open Virtualization Format (OVF) 503 OpenWRT 7 T.me/nettrain [PAGE 772] openZFS 193 reference link 193 Oracle’s VirtualBox 20 using 20 Oracle VM VirtualBox URL 13 Organization for the Advancement of Structured Information Stand-ards (OASIS) 505 orphan process 162 OSI model 217, 218 applica",
+    "word_count": 2000
+  },
+  {
+    "id": 120,
+    "summary": "This document chunk covers various topics related to Linux, networking, and virtualization, including the use of Ubuntu, network configuration, and virtual machines. It also discusses tools and protocols such as Jinja2, TELNET, and TCP. Additionally, it touches on user management, file systems, and security. The chunk provides a comprehensive overview of Linux administration and networking concepts.",
+    "keywords": [
+      "Linux",
+      "Ubuntu",
+      "Networking",
+      "Virtualization",
+      "Jinja2",
+      "TELNET",
+      "TCP",
+      "User Management",
+      "File Systems",
+      "Security",
+      "Virtual Machines",
+      "VMware",
+      "VNC",
+      "VPC",
+      "VPS"
+    ],
+    "entities": [
+      "Ubuntu",
+      "Jinja2",
+      "TELNET",
+      "TCP",
+      "VMware",
+      "VNC",
+      "VPC",
+      "VPS",
+      "Linux",
+      "UNIX"
+    ],
+    "topics": [
+      "Linux Administration",
+      "Networking",
+      "Virtualization",
+      "User Management",
+      "File Systems",
+      "Security"
+    ],
+    "question_seeds": [
+      "What is the difference between TCP and UDP?",
+      "How does Linux user management work?",
+      "What is the purpose of the TELNET protocol?",
+      "How do you configure a virtual machine in Linux?",
+      "What are the benefits of using virtualization in Linux?"
+    ],
+    "pages": [
+      789,
+      790,
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802
+    ],
+    "preview": "163 teletypewriter 34 templates using, with Jinja2 694 Terminal Network protocol (TELNET) 225, 261 testing structures 285 for file types 286 for strings 286 test plugins 636 text editors using, to create and edit files 69 text files modes, switching between 70 text manipulation 67 timestamp datagram",
+    "word_count": 1352
+  }
+]

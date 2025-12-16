@@ -1,0 +1,150 @@
+[
+  {
+    "id": 0,
+    "summary": "An information technology audit is an examination of the controls within an IT infrastructure to ensure assets are safeguarded, data integrity is maintained, and operations are effective and efficient. The primary functions of an IT audit are to evaluate the system's efficacy and security protocols, and to assess the organization's ability to protect its information assets. IT audits can be performed in conjunction with financial statement audits or other forms of attestation engagement, and the",
+    "keywords": [
+      "Information Technology Audit",
+      "IT Infrastructure",
+      "Data Integrity",
+      "Security Protocols",
+      "Financial Statement Audit",
+      "Automated Data Processing",
+      "Computer Audits",
+      "Electronic Data Processing",
+      "Risk Assessment",
+      "Control Evaluation",
+      "Technological Innovation",
+      "Systems and Applications"
+    ],
+    "entities": [
+      "Goodman",
+      "Lawless",
+      "IT Infrastructure",
+      "Organization",
+      "Industry"
+    ],
+    "topics": [
+      "Information Technology",
+      "Audit and Assurance",
+      "Risk Management",
+      "Data Security",
+      "Compliance"
+    ],
+    "question_seeds": [
+      "What is the purpose of an IT audit?",
+      "How does an IT audit differ from a financial statement audit?",
+      "What are the primary functions of an IT audit?",
+      "What types of IT audits are there?",
+      "How can an IT audit help minimize risks to an organization's information assets?"
+    ],
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "preview": "[PAGE 1] 1 INFORMATION SYSTEMS AUDIT An information technology audit, or information systems audit, is an examination of the controls within an Information technology (IT) infrastructure. An IT audit is the process of collecting and evaluating evidence of an organization's information systems, pract",
+    "word_count": 2000
+  },
+  {
+    "id": 1,
+    "summary": "The CISA certification is a highly recognized credential in the field of information systems auditing, managed by ISACA and accredited by ANSI. To become certified, candidates must pass an examination, adhere to ISACA's Code of Professional Ethics, and have at least five years of professional experience in IS auditing, control, or security. The certification has been formally approved by the US Department of Defense and is one of the few certifications to receive this recognition. The CISA certi",
+    "keywords": [
+      "CISA certification",
+      "ISACA",
+      "ANSI accreditation",
+      "US Department of Defense",
+      "Information Assurance Technical category",
+      "CISM certification",
+      "CGEIT certification",
+      "Information Systems Auditor",
+      "Information Security Manager",
+      "Governance of Enterprise IT",
+      "IS auditing standards",
+      "professional ethics",
+      "continuing professional education"
+    ],
+    "entities": [
+      "ISACA",
+      "US Department of Defense",
+      "ANSI",
+      "CISA",
+      "CISM",
+      "CGEIT"
+    ],
+    "topics": [
+      "Information Systems Auditing",
+      "Certifications",
+      "Professional Ethics",
+      "IS Auditing Standards",
+      "Information Security"
+    ],
+    "question_seeds": [
+      "What is the CISA certification and what are its requirements?",
+      "How does the CISA certification differ from other ISACA certifications?",
+      "What are the benefits of obtaining the CISA certification?",
+      "What are the IS auditing standards and how are they applied in practice?",
+      "How does the US Department of Defense recognize the CISA certification?"
+    ],
+    "pages": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "preview": "candidates have earned the CISA designation. The CISA certification has been recognised with ANSI accreditation, along with the CISM certification- both of these certifications are managed by ISACA. It is one of the few certifications formally approved by the US Department of Defense in their Inform",
+    "word_count": 2000
+  },
+  {
+    "id": 2,
+    "summary": "The IS auditor should consider using the work of other experts for the audit, assessing their qualifications and evaluating their work. The auditor should also obtain sufficient and appropriate audit evidence to draw reasonable conclusions. The guidelines cover various aspects of IS auditing, including audit evidence, IT controls, e-commerce, and the use of computer-assisted audit techniques. The effective dates for these guidelines range from 2002 to 2008.",
+    "keywords": [
+      "IS auditor",
+      "expert opinion",
+      "audit evidence",
+      "IT controls",
+      "e-commerce",
+      "computer-assisted audit techniques",
+      "audit planning",
+      "risk assessment",
+      "audit documentation",
+      "professional care",
+      "materiality concepts",
+      "outsourcing",
+      "audit charter"
+    ],
+    "entities": [
+      "IS auditor",
+      "organisation",
+      "Standards Re-evaluation Project"
+    ],
+    "topics": [
+      "IS auditing",
+      "audit evidence",
+      "IT controls",
+      "e-commerce",
+      "audit planning"
+    ],
+    "question_seeds": [
+      "What are the guidelines for using the work of other experts in IS auditing?",
+      "How does the IS auditor evaluate the work of other experts?",
+      "What are the effective dates for the IS auditing guidelines?",
+      "What are the key aspects of IT controls that the IS auditor should evaluate?",
+      "How does the IS auditor obtain sufficient and appropriate audit evidence?"
+    ],
+    "pages": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "preview": "Experts 03 The IS auditor should, where appropriate, consider using the work of other experts for the audit. 1 July 2006 [PAGE 11] 11 04 The IS auditor should assess and be satisfied with the professional qualifications, competencies, relevant experience, resources, independence and quality control ",
+    "word_count": 652
+  }
+]

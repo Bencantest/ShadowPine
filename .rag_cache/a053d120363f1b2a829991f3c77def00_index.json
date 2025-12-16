@@ -1,0 +1,486 @@
+[
+  {
+    "id": 0,
+    "summary": "Business process reengineering (BPR) is a tool to help organizations improve quality, customer services, and cut operational costs. This paper reviews the work done in the field of BPR and quality management, focusing on its development, theories, approaches, challenges, and outcomes. The study concludes that applying BPR in the Indian manufacturing sector is feasible, despite the need for a universally acceptable model and methodology. The concept of reengineering has its roots in management th",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "Quality Management",
+      "Manufacturing organizations",
+      "Organizational culture",
+      "Customer satisfaction",
+      "Success factors",
+      "Reengineering",
+      "Management theories",
+      "Frederick Taylor",
+      "Henri Fayol",
+      "Indian manufacturing sector",
+      "Operational costs",
+      "Competitive advantage"
+    ],
+    "entities": [
+      "Hari Lal Bhaskar",
+      "Dr. R.P. Singh",
+      "D.D.U. Gorakhpur University",
+      "India",
+      "Frederick Taylor",
+      "Henri Fayol",
+      "ResearchGate"
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "Quality Management",
+      "Manufacturing organizations",
+      "Organizational culture",
+      "Management theories"
+    ],
+    "question_seeds": [
+      "What is Business Process Reengineering and how does it improve organizational performance?",
+      "How does the concept of reengineering relate to management theories from the 19th century?",
+      "What are the challenges and outcomes of applying BPR in the Indian manufacturing sector?",
+      "Who are the key contributors to the development of reengineering concepts?",
+      "What is the significance of having a universally acceptable model and methodology for BPR?"
+    ],
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "preview": "[PAGE 1] See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/303370824 Business process reengineering: a recent review Article · December 2014 CITATIONS 12 READS 31,597 Some of the authors of this publication are also working on these related",
+    "word_count": 2000
+  },
+  {
+    "id": 1,
+    "summary": "Business Process Reengineering (BPR) is a management approach that aims to improve performance by redesigning processes and maximizing value-added content. It involves radical changes to an organization's existing processes and can be applied to individual processes or the entire organization. BPR is necessary for companies in trouble, those that foresee trouble, or those seeking to gain a competitive advantage. The approach requires careful consideration of tools, techniques, and human factors,",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "process redesign",
+      "performance improvement",
+      "change management",
+      "benchmarking",
+      "reengineering",
+      "organizational change",
+      "management philosophy",
+      "process visualization",
+      "process mapping",
+      "operational method study"
+    ],
+    "entities": [
+      "Gulden",
+      "Reck",
+      "Hammer",
+      "Champy",
+      "Barrett",
+      "Cypress",
+      "Mumford",
+      "Beekma",
+      "Bruss",
+      "Roos",
+      "Kennedy",
+      "India",
+      "CEO",
+      "CIO"
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "Organizational Change",
+      "Performance Improvement",
+      "Management Philosophy",
+      "Change Management"
+    ],
+    "question_seeds": [
+      "What is Business Process Reengineering?",
+      "How does BPR improve organizational performance?",
+      "What are the key tools and techniques used in BPR?",
+      "When is BPR necessary for an organization?",
+      "How does BPR impact employees and organizational culture?"
+    ],
+    "pages": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "preview": "future. Gulden and Reck (1991) support this view by showing that the secrets to designing a process lay not so much in intimately understanding the way it is performed today, but rather in thinking about how to reshape it for tomorrow. Hammer and Champy (1993) went further to identify three kinds of",
+    "word_count": 2000
+  },
+  {
+    "id": 2,
+    "summary": "Total Quality Management (TQM) is an approach to improving organizational competitiveness, effectiveness, and flexibility by focusing on customer satisfaction and continuous process improvement. Business Process Reengineering (BPR) is a more radical approach that emphasizes process analysis and reengineering. While some authors suggest that TQM and BPR are distinct approaches, others argue that they can be integrated into a strategic management system. The key to successful implementation of eit",
+    "keywords": [
+      "Total Quality Management",
+      "TQM",
+      "Business Process Reengineering",
+      "BPR",
+      "continuous improvement",
+      "process management",
+      "customer satisfaction",
+      "organizational competitiveness",
+      "flexibility",
+      "benchmarking",
+      "culture change",
+      "performance measurement"
+    ],
+    "entities": [
+      "Oakland",
+      "Bennis",
+      "Klein",
+      "Davenport",
+      "Harrison",
+      "Pratt",
+      "Hammer",
+      "Chang",
+      "Furey",
+      "Taylor",
+      "Gadd",
+      "Juran",
+      "Kano",
+      "Hill",
+      "Wilkinson"
+    ],
+    "topics": [
+      "Total Quality Management",
+      "Business Process Reengineering",
+      "continuous improvement",
+      "process management",
+      "organizational change",
+      "strategic management"
+    ],
+    "question_seeds": [
+      "What is the main difference between TQM and BPR?",
+      "How can organizations implement TQM and BPR effectively?",
+      "What are the key components of a successful process management system?",
+      "How can continuous improvement lead to radical breakthroughs in organizational performance?",
+      "What role does benchmarking play in TQM and BPR?"
+    ],
+    "pages": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "preview": "Management) is “an approach to improving the competitiveness, effectiveness and flexibility of a whole organisation. It is essentially a way of planning, organising and understanding each activity, and depends on each individual at each level” (Oakland, 1993). TQM involves placing the customer as th",
+    "word_count": 2000
+  },
+  {
+    "id": 3,
+    "summary": "The study reveals that many companies have failed to achieve significant benefits from reengineering efforts, with a 30% shortfall in meeting benchmarks such as customer satisfaction and revenue growth. This is often due to the lack of extension of reengineering to actual management practice, resulting in a failure to change the company culture. Senior management's leadership plays a crucial role in implementing change, and reengineering horizontal processes can lead to distinctive competencies.",
+    "keywords": [
+      "reengineering",
+      "customer satisfaction",
+      "quality",
+      "revenue growth",
+      "market share",
+      "management practice",
+      "organizational culture",
+      "horizontal processes",
+      "distinctive competencies",
+      "senior management",
+      "leadership",
+      "process management",
+      "external objectives",
+      "culture change"
+    ],
+    "entities": [
+      "North America",
+      "US",
+      "IBM Credit",
+      "Marriott Hotels",
+      "Hyatt",
+      "Hilton",
+      "Davis",
+      "Day",
+      "Senge",
+      "Shapiro",
+      "Irvin",
+      "Michaels",
+      "Hari Lal Bhaskar",
+      "Dr. R.P. Singh"
+    ],
+    "topics": [
+      "reengineering",
+      "organizational culture",
+      "management practice",
+      "process management",
+      "distinctive competencies",
+      "leadership",
+      "customer satisfaction"
+    ],
+    "question_seeds": [
+      "What are the key challenges in reengineering a corporation?",
+      "How can senior management effectively implement reengineering efforts?",
+      "What role does organizational culture play in achieving distinctive competencies?",
+      "What are the benefits of managing horizontal processes?",
+      "How can companies create a distinctive capability through reengineering?"
+    ],
+    "pages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "preview": "increases in customer satisfaction, quality, and revenue, and • 25 percent growth in market share. Although little information is available on the 71 percent of the ongoing North American reengineering efforts in the sample, overall, the study showed that participants had failed to attain these benc",
+    "word_count": 2000
+  },
+  {
+    "id": 4,
+    "summary": "This chapter identifies research topics related to Business Process Reengineering (BPR) that can be explored by the academic community, including the link between BPR and corporate objectives, the adoption of BPR tools and techniques, and the role of top management in successful BPR implementation. The chapter also discusses the importance of understanding current business processes and the application of Information Technology (IT) in BPR. The authors argue that BPR must be seen as a strategic,",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "corporate objectives",
+      "organizational structure",
+      "IT",
+      "Information Technology",
+      "TQM",
+      "Total Quality Management",
+      "process owners",
+      "team work",
+      "top management",
+      "risk management",
+      "business performance"
+    ],
+    "entities": [
+      "Hammer",
+      "Aremu",
+      "Saka",
+      "Davenport",
+      "Short"
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "Information Technology",
+      "Organizational Management",
+      "Corporate Strategy",
+      "Risk Management"
+    ],
+    "question_seeds": [
+      "What is the impact of BPR on corporate objectives and organizational structure?",
+      "How does the adoption of BPR tools and techniques affect business performance?",
+      "What is the role of IT in successful BPR implementation?",
+      "What are the best practices in managing BPR projects?",
+      "How can top management contribute to the success of BPR projects?"
+    ],
+    "pages": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "preview": "presented in this chapter, we identify below a number of research topics that can be researched by the academic community. 1. BPR, corporate objectives and organisational structure—investigating the link between BPR and long-term corporate objectives and how these impact on the structure of the orga",
+    "word_count": 2000
+  },
+  {
+    "id": 5,
+    "summary": "Business Process Reengineering (BPR) requires significant organizational change, including a shift in culture, to achieve successful implementation. A strong organizational culture can facilitate the change process, but it can also hinder it if it is not adaptable. BPR involves altering various organizational subsystems, including management, people, technology, and structures, to improve process products and services. Effective communication, leadership, and control are essential for achieving ",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "organizational culture",
+      "change management",
+      "process transformation",
+      "communication",
+      "leadership",
+      "control",
+      "management style",
+      "labor relations",
+      "organizational design",
+      "reengineering",
+      "cultural change"
+    ],
+    "entities": [
+      "Tichy",
+      "Gatewood",
+      "Danny Miller",
+      "Attenello",
+      "Janson",
+      "Uzzi",
+      "Al-Mashari",
+      "Zairi",
+      "Guha",
+      "Kettinger",
+      "Teng",
+      "Leth",
+      "Davenport",
+      "Nohria",
+      "Champy"
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "organizational culture",
+      "change management",
+      "process transformation",
+      "leadership",
+      "communication"
+    ],
+    "question_seeds": [
+      "What is the role of organizational culture in Business Process Reengineering?",
+      "How does BPR impact an organization's culture and structure?",
+      "What are the key factors that influence the success of BPR implementation?",
+      "What are the potential risks and challenges associated with BPR?",
+      "How can leaders and managers facilitate cultural change through BPR?"
+    ],
+    "pages": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "preview": "change such as BPR (Tichy, 1983). Organisational culture is commonly referred to as the “values, beliefs, traditions, philosophies, rules and heroes shared by all members of the organization” (Gatewood et al., 1995, p. 19). BPR requires the organisation to do away with everything it had in the past,",
+    "word_count": 2000
+  },
+  {
+    "id": 6,
+    "summary": "The document discusses the reengineering of project construction management processes, highlighting various methodologies and their stages. It emphasizes the importance of methodological choices for the success of Business Process Reengineering (BPR) and notes that different methodologies have their own specialties and properties. The document also references several researchers, including Wastell, Davenport, and Kettinger, who have proposed different methodologies for BPR. Ultimately, it conclu",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "methodology",
+      "construction management",
+      "process analysis",
+      "design methodology",
+      "PADM",
+      "reengineering processes",
+      "strategic perspective",
+      "IT applications",
+      "functional coupling framework"
+    ],
+    "entities": [
+      "Wastell",
+      "Davenport",
+      "Kettinger",
+      "Muthu Subramanian",
+      "Whitman Larry",
+      "Cheraghi S. Hossein",
+      "White P.",
+      "Kawalek P."
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "construction management",
+      "methodology",
+      "organizational change",
+      "leadership"
+    ],
+    "question_seeds": [
+      "What is Business Process Reengineering?",
+      "How does the choice of methodology impact the success of BPR?",
+      "What are the key stages of the reengineering process?",
+      "Who are the key researchers in the field of BPR?",
+      "What are the benefits of implementing BPR in an organization?"
+    ],
+    "pages": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "preview": "of project construction management process reengineering are proposed, and the various stages of the main tasks are described. REENGINEERING METHODOLOGY To put BPR into action, methodological choices play a key role for the success of BPR. Wastell (1996) proposed a PADM methodology (process analysis",
+    "word_count": 2000
+  },
+  {
+    "id": 7,
+    "summary": "This document discusses Business Process Reengineering (BPR) and its importance in organizational change and improvement. BPR requires a proper integration with various organizational subsystems and techniques, and its implementation is affected by human factors. The document also highlights the need for a universally acceptable model and methodology for BPR. The research aims to provide a comprehensive understanding of BPR and its application in the Indian manufacturing sector.",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "organizational change",
+      "human factors",
+      "integration",
+      "subsystems",
+      "techniques",
+      "Indian manufacturing sector",
+      "quality management",
+      "innovation",
+      "corporate improvement",
+      "cost leadership",
+      "competitive strategy"
+    ],
+    "entities": [
+      "Indian manufacturing organizations",
+      "IA",
+      "BPR teams",
+      "BPR experts",
+      "IT experts",
+      "Quality managers",
+      "Ph.D. Scholar"
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "organizational change",
+      "quality management",
+      "innovation",
+      "competitive strategy"
+    ],
+    "question_seeds": [
+      "What is Business Process Reengineering and how does it impact organizational change?",
+      "How does BPR affect the Indian manufacturing sector?",
+      "What are the key factors that influence the successful implementation of BPR?",
+      "What are the benefits and challenges of implementing BPR in an organization?",
+      "How can BPR be used as a tool for quality management and innovation?"
+    ],
+    "pages": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "preview": "changes to their organizations in response to strategic business needs. 2. Business Process Reengineering highlights the importance of the human factors in implementation. 3. Business Process Reengineering requires a proper integration with the various other organizational subsystems and other techn",
+    "word_count": 2000
+  },
+  {
+    "id": 8,
+    "summary": "The document discusses business process reengineering (BPR) and its various aspects, including core skills, total quality management, and lean production. It references several authors and their works, such as Irvin, Michaels, and Jain, who have written about BPR and its applications. The document also mentions different approaches to BPR, including the use of benchmarking, facilitators, and socio-technical approaches. Overall, the document provides an overview of the key concepts and methodolog",
+    "keywords": [
+      "Business Process Reengineering",
+      "BPR",
+      "Total Quality Management",
+      "Lean Production",
+      "Core Skills",
+      "Benchmarking",
+      "Facilitators",
+      "Socio-technical Approach",
+      "Organizational Performance",
+      "Quality Management",
+      "Process Redesign",
+      "Reengineering"
+    ],
+    "entities": [
+      "Irvin",
+      "Michaels",
+      "Jain",
+      "McKinsey Quarterly",
+      "John Wiley and Sons",
+      "Juran Institute",
+      "McGraw-Hill",
+      "Harvard Business Review",
+      "Financial Times",
+      "ASQC Quality Press",
+      "CG Publications"
+    ],
+    "topics": [
+      "Business Process Reengineering",
+      "Quality Management",
+      "Organizational Performance",
+      "Process Redesign",
+      "Lean Production",
+      "Total Quality Management"
+    ],
+    "question_seeds": [
+      "What is Business Process Reengineering?",
+      "How does BPR improve organizational performance?",
+      "What are the key concepts and methodologies related to BPR?",
+      "What are the benefits and challenges of implementing BPR?",
+      "How can BPR be applied in different industries and organizations?"
+    ],
+    "pages": [
+      28,
+      29
+    ],
+    "preview": "= 19962&menu_url=articles%5Foverview%2Easp Irvin, R.A., Michaels III, E.G., (1989). Core skills: Doing the right things right. The McKinley Quarterly Summer, 4–19. Jain Natika (2011). BPR–Corporate Tool for Reviving. BioinfoBusiness Economics, Volume 1, Issue 1, pp-01-05 Johanssen, H.J., McHugh, P.,",
+    "word_count": 747
+  }
+]
